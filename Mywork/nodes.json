@@ -1,0 +1,2426 @@
+getnodesJson([
+    {
+        "name": "[title]A Pixel-Level Meta-Learner", 
+        "group": 1
+    }, 
+    {
+        "name": "such ground truth information", 
+        "group": 1
+    }, 
+    {
+        "name": "query image inputs", 
+        "group": 1
+    }, 
+    {
+        "name": "Few-shot semantic segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "weakly supervised settings", 
+        "group": 1
+    }, 
+    {
+        "name": "ground truth pixel-level labels", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Addressing out-of-distribution label noise in webly-labelled data", 
+        "group": 1
+    }, 
+    {
+        "name": "real label noise datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "web noise distribution", 
+        "group": 1
+    }, 
+    {
+        "name": "label noise", 
+        "group": 1
+    }, 
+    {
+        "name": "noisy labels", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]AE-StyleGAN: Improved Training of Style-Based Auto-Encoders", 
+        "group": 1
+    }, 
+    {
+        "name": "end", 
+        "group": 1
+    }, 
+    {
+        "name": "generation quality", 
+        "group": 1
+    }, 
+    {
+        "name": "real data lead", 
+        "group": 1
+    }, 
+    {
+        "name": "image", 
+        "group": 1
+    }, 
+    {
+        "name": "latent space", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Morph Detection Enhanced by Structured Group Sparsity", 
+        "group": 1
+    }, 
+    {
+        "name": "morphed images", 
+        "group": 1
+    }, 
+    {
+        "name": "bands", 
+        "group": 1
+    }, 
+    {
+        "name": "MorGAN", 
+        "group": 1
+    }, 
+    {
+        "name": "face", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Event-driven Re-Id: A New Benchmark and Method Towards", 
+        "group": 1
+    }, 
+    {
+        "name": "re-id model", 
+        "group": 1
+    }, 
+    {
+        "name": "-", 
+        "group": 1
+    }, 
+    {
+        "name": "more distinct edge patterns", 
+        "group": 1
+    }, 
+    {
+        "name": "Event cameras", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]AirCamRTM: Enhancing Vehicle Detection for Efﬁcient Aerial Camera-based", 
+        "group": 1
+    }, 
+    {
+        "name": "trafﬁc congestion", 
+        "group": 1
+    }, 
+    {
+        "name": "monitoring", 
+        "group": 1
+    }, 
+    {
+        "name": "relevant vehicles", 
+        "group": 1
+    }, 
+    {
+        "name": "real-time trafﬁc monitoring", 
+        "group": 1
+    }, 
+    {
+        "name": "∼", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Fight Detection from Still Images in the Wild", 
+        "group": 1
+    }, 
+    {
+        "name": "ﬁght actions", 
+        "group": 1
+    }, 
+    {
+        "name": "SMFI dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "ﬁghts", 
+        "group": 1
+    }, 
+    {
+        "name": "social media", 
+        "group": 1
+    }, 
+    {
+        "name": "cross-dataset experiments", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]An Investigation of Critical Issues in Bias Mitigation Techniques", 
+        "group": 1
+    }, 
+    {
+        "name": "hidden biases", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple bias sources", 
+        "group": 1
+    }, 
+    {
+        "name": "future bias mitigation methods", 
+        "group": 1
+    }, 
+    {
+        "name": "bias", 
+        "group": 1
+    }, 
+    {
+        "name": "inappropriate biases", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Real-time Bangla License Plate Recognition System for Low Resource", 
+        "group": 1
+    }, 
+    {
+        "name": "high confidence detections", 
+        "group": 1
+    }, 
+    {
+        "name": "dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "inference time", 
+        "group": 1
+    }, 
+    {
+        "name": "82.7% detection rate", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Attack Agnostic Detection of Adversarial Examples via", 
+        "group": 1
+    }, 
+    {
+        "name": "adversarial attack detection", 
+        "group": 1
+    }, 
+    {
+        "name": "AU C ∈", 
+        "group": 1
+    }, 
+    {
+        "name": "most current detection approaches", 
+        "group": 1
+    }, 
+    {
+        "name": "clean examples", 
+        "group": 1
+    }, 
+    {
+        "name": "Performance evaluations", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]A Personalized Benchmark for Face Anti-spoofing", 
+        "group": 1
+    }, 
+    {
+        "name": "SiW", 
+        "group": 1
+    }, 
+    {
+        "name": "SiW-Enroll", 
+        "group": 1
+    }, 
+    {
+        "name": "protected data", 
+        "group": 1
+    }, 
+    {
+        "name": "such systems", 
+        "group": 1
+    }, 
+    {
+        "name": "anti-spoofing benchmarks", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]DIOR: DIstill Observations to Representations for", 
+        "group": 1
+    }, 
+    {
+        "name": "Multi-object tracking", 
+        "group": 1
+    }, 
+    {
+        "name": "features", 
+        "group": 1
+    }, 
+    {
+        "name": "instance segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "MOTS", 
+        "group": 1
+    }, 
+    {
+        "name": "autonomous driving", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking", 
+        "group": 1
+    }, 
+    {
+        "name": "road", 
+        "group": 1
+    }, 
+    {
+        "name": "lower resolutions", 
+        "group": 1
+    }, 
+    {
+        "name": "detection", 
+        "group": 1
+    }, 
+    {
+        "name": "existing methods", 
+        "group": 1
+    }, 
+    {
+        "name": "novel approaches", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]CharacterGAN: Few-Shot Keypoint Character Animation and Reposing", 
+        "group": 1
+    }, 
+    {
+        "name": "diverse characters", 
+        "group": 1
+    }, 
+    {
+        "name": "realistic animations", 
+        "group": 1
+    }, 
+    {
+        "name": "realistic results", 
+        "group": 1
+    }, 
+    {
+        "name": "animation", 
+        "group": 1
+    }, 
+    {
+        "name": "interactive feedback", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Cleaning Noisy Labels by Negative Ensemble Learning for Source-Free", 
+        "group": 1
+    }, 
+    {
+        "name": "source data samples", 
+        "group": 1
+    }, 
+    {
+        "name": "source data", 
+        "group": 1
+    }, 
+    {
+        "name": "domain data", 
+        "group": 1
+    }, 
+    {
+        "name": "source", 
+        "group": 1
+    }, 
+    {
+        "name": "ensemble members", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Contextual Proposal Network for Action Localization", 
+        "group": 1
+    }, 
+    {
+        "name": "bi-directional temporal contexts", 
+        "group": 1
+    }, 
+    {
+        "name": "long untrimmed videos", 
+        "group": 1
+    }, 
+    {
+        "name": "such", 
+        "group": 1
+    }, 
+    {
+        "name": "bi-directional temporal contexts", 
+        "group": 1
+    }, 
+    {
+        "name": "Proposal Network", 
+        "group": 1
+    }, 
+    {
+        "name": "the bi-directional recurrent neural networks", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]CrossLocate: Cross-modal Large-scale Visual Geo-Localization", 
+        "group": 1
+    }, 
+    {
+        "name": "depth maps", 
+        "group": 1
+    }, 
+    {
+        "name": "silhouette maps", 
+        "group": 1
+    }, 
+    {
+        "name": "vast localization areas", 
+        "group": 1
+    }, 
+    {
+        "name": "rendered images", 
+        "group": 1
+    }, 
+    {
+        "name": "available data", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Danish Fungi 2020 – Not Just Another Image Recognition Dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "rich observation metadata", 
+        "group": 1
+    }, 
+    {
+        "name": "observation metadata", 
+        "group": 1
+    }, 
+    {
+        "name": "errors", 
+        "group": 1
+    }, 
+    {
+        "name": "CNN baselines", 
+        "group": 1
+    }, 
+    {
+        "name": "CNN", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image", 
+        "group": 1
+    }, 
+    {
+        "name": "SR performance", 
+        "group": 1
+    }, 
+    {
+        "name": "other quantization methods", 
+        "group": 1
+    }, 
+    {
+        "name": "SR", 
+        "group": 1
+    }, 
+    {
+        "name": "recent SR networks", 
+        "group": 1
+    }, 
+    {
+        "name": "quantization", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Data InStance Prior (DISP) in Generative Adversarial Networks", 
+        "group": 1
+    }, 
+    {
+        "name": "image quality", 
+        "group": 1
+    }, 
+    {
+        "name": "few target images", 
+        "group": 1
+    }, 
+    {
+        "name": "diversity", 
+        "group": 1
+    }, 
+    {
+        "name": "low data", 
+        "group": 1
+    }, 
+    {
+        "name": "informative data", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Dataset Knowledge Transfer for Class-Incremental Learning without Memory", 
+        "group": 1
+    }, 
+    {
+        "name": "memory", 
+        "group": 1
+    }, 
+    {
+        "name": "bias correction parameters", 
+        "group": 1
+    }, 
+    {
+        "name": "past classes", 
+        "group": 1
+    }, 
+    {
+        "name": "bias correction", 
+        "group": 1
+    }, 
+    {
+        "name": "past data", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Deep Online Fused Video Stabilization", 
+        "group": 1
+    }, 
+    {
+        "name": "ablation studies", 
+        "group": 1
+    }, 
+    {
+        "name": "video stabilization", 
+        "group": 1
+    }, 
+    {
+        "name": "quantitative evaluations", 
+        "group": 1
+    }, 
+    {
+        "name": "videos", 
+        "group": 1
+    }, 
+    {
+        "name": "unsupervised learning", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Detail Preserving Residual Feature Pyramid Modules for Optical Flow", 
+        "group": 1
+    }, 
+    {
+        "name": "optical flow estimation", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple feature pyramids", 
+        "group": 1
+    }, 
+    {
+        "name": "iterative refinement", 
+        "group": 1
+    }, 
+    {
+        "name": "a typical full optical flow training schedule", 
+        "group": 1
+    }, 
+    {
+        "name": "Feature pyramids", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]DG-Labeler and DGL-MOTS Dataset:", 
+        "group": 1
+    }, 
+    {
+        "name": "autonomous driving applications", 
+        "group": 1
+    }, 
+    {
+        "name": "Multi-object tracking", 
+        "group": 1
+    }, 
+    {
+        "name": "MOTS", 
+        "group": 1
+    }, 
+    {
+        "name": "segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "a crit-", 
+        "group": 1
+    }, 
+    {
+        "name": "ical task", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Improving Person Re-Identiﬁcation with Temporal Constraints", 
+        "group": 1
+    }, 
+    {
+        "name": "-ranking post-processing step", 
+        "group": 1
+    }, 
+    {
+        "name": "timestamp information", 
+        "group": 1
+    }, 
+    {
+        "name": "person", 
+        "group": 1
+    }, 
+    {
+        "name": "Rank1 accuracy", 
+        "group": 1
+    }, 
+    {
+        "name": "ﬁve non-overlapping", 
+        "group": 1
+    }, 
+    {
+        "name": "camera views", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Digital and Physical-World Attacks on Remote Pulse Detection", 
+        "group": 1
+    }, 
+    {
+        "name": "face video", 
+        "group": 1
+    }, 
+    {
+        "name": "presentation attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "rPPG methods", 
+        "group": 1
+    }, 
+    {
+        "name": "reflected light with-", 
+        "group": 1
+    }, 
+    {
+        "name": "imperceptible periodic noise", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Evaluating the Robustness of Semantic Segmentation for Autonomous Driving", 
+        "group": 1
+    }, 
+    {
+        "name": "adversarial attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "SS models", 
+        "group": 1
+    }, 
+    {
+        "name": "autonomous driving", 
+        "group": 1
+    }, 
+    {
+        "name": "adversarial perturbations", 
+        "group": 1
+    }, 
+    {
+        "name": "powerful attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]FASSST: Fast Attention Based Single-Stage Segmentation Net for Real-Time", 
+        "group": 1
+    }, 
+    {
+        "name": "ROI features", 
+        "group": 1
+    }, 
+    {
+        "name": "instance segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "features", 
+        "group": 1
+    }, 
+    {
+        "name": "class probabilities", 
+        "group": 1
+    }, 
+    {
+        "name": "Jetson Xavier NX", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]FastAno: Fast Anomaly Detection", 
+        "group": 1
+    }, 
+    {
+        "name": "Video anomaly detection", 
+        "group": 1
+    }, 
+    {
+        "name": "abnormal frames", 
+        "group": 1
+    }, 
+    {
+        "name": "surveillance videos", 
+        "group": 1
+    }, 
+    {
+        "name": "fast speed", 
+        "group": 1
+    }, 
+    {
+        "name": "inference", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Few-Shot Object Detection by Attending to Per-Sample-Prototype", 
+        "group": 1
+    }, 
+    {
+        "name": "support samples", 
+        "group": 1
+    }, 
+    {
+        "name": "support data", 
+        "group": 1
+    }, 
+    {
+        "name": "shared information", 
+        "group": 1
+    }, 
+    {
+        "name": "each support sample", 
+        "group": 1
+    }, 
+    {
+        "name": "category", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Forgery Detection by Internal Positional Learning of Demosaicing Traces", 
+        "group": 1
+    }, 
+    {
+        "name": "existing mosaic detection methods", 
+        "group": 1
+    }, 
+    {
+        "name": "various post-processing and counter-forensic artefacts", 
+        "group": 1
+    }, 
+    {
+        "name": "ﬁnd forgeries", 
+        "group": 1
+    }, 
+    {
+        "name": "mosaic", 
+        "group": 1
+    }, 
+    {
+        "name": "JPEG compression", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Video representation learning through prediction for online object detection", 
+        "group": 1
+    }, 
+    {
+        "name": "video representations", 
+        "group": 1
+    }, 
+    {
+        "name": "stochastic video prediction", 
+        "group": 1
+    }, 
+    {
+        "name": "future video prediction", 
+        "group": 1
+    }, 
+    {
+        "name": "video", 
+        "group": 1
+    }, 
+    {
+        "name": "videos", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Video representation learning through prediction for online object detection", 
+        "group": 1
+    }, 
+    {
+        "name": "video representations", 
+        "group": 1
+    }, 
+    {
+        "name": "stochastic video prediction", 
+        "group": 1
+    }, 
+    {
+        "name": "future video prediction", 
+        "group": 1
+    }, 
+    {
+        "name": "video", 
+        "group": 1
+    }, 
+    {
+        "name": "videos", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]GANs Spatial Control via Inference-Time Adaptive Normalization", 
+        "group": 1
+    }, 
+    {
+        "name": "GAN", 
+        "group": 1
+    }, 
+    {
+        "name": "ation effects", 
+        "group": 1
+    }, 
+    {
+        "name": "the GAN’s", 
+        "group": 1
+    }, 
+    {
+        "name": "high visual quality", 
+        "group": 1
+    }, 
+    {
+        "name": "the image", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Generating and Controlling Diversity in Image Search", 
+        "group": 1
+    }, 
+    {
+        "name": "content users", 
+        "group": 1
+    }, 
+    {
+        "name": "content providers", 
+        "group": 1
+    }, 
+    {
+        "name": "existing content", 
+        "group": 1
+    }, 
+    {
+        "name": "gender", 
+        "group": 1
+    }, 
+    {
+        "name": "user studies", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]VQuAD: Video Question Answering Diagnostic Dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "language features", 
+        "group": 1
+    }, 
+    {
+        "name": "video features", 
+        "group": 1
+    }, 
+    {
+        "name": "abilities", 
+        "group": 1
+    }, 
+    {
+        "name": "Previous datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "biases", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help", 
+        "group": 1
+    }, 
+    {
+        "name": "DP", 
+        "group": 1
+    }, 
+    {
+        "name": "a single-image deblurring network", 
+        "group": 1
+    }, 
+    {
+        "name": "the single input image", 
+        "group": 1
+    }, 
+    {
+        "name": "reﬂection", 
+        "group": 1
+    }, 
+    {
+        "name": "the two sub-aperture views", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]In-Field Phenotyping Based on Crop Leaf and Plant Instance Segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "plant scientists", 
+        "group": 1
+    }, 
+    {
+        "name": "plant", 
+        "group": 1
+    }, 
+    {
+        "name": "real field", 
+        "group": 1
+    }, 
+    {
+        "name": "real fields", 
+        "group": 1
+    }, 
+    {
+        "name": "phenotypic traits", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Inferring the Class Conditional Response Map", 
+        "group": 1
+    }, 
+    {
+        "name": "better pseudo-labels", 
+        "group": 1
+    }, 
+    {
+        "name": "better pseudo labels", 
+        "group": 1
+    }, 
+    {
+        "name": "class activation maps", 
+        "group": 1
+    }, 
+    {
+        "name": "objects", 
+        "group": 1
+    }, 
+    {
+        "name": "segmentation training", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Intelligent Camera Selection Decisions for Target Tracking in a Camera Network", 
+        "group": 1
+    }, 
+    {
+        "name": "camera selection decisions", 
+        "group": 1
+    }, 
+    {
+        "name": "camera selection", 
+        "group": 1
+    }, 
+    {
+        "name": "larger camera networks", 
+        "group": 1
+    }, 
+    {
+        "name": "Re-ID queries", 
+        "group": 1
+    }, 
+    {
+        "name": "candidate cameras", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Multiple Object Tracking and Forecasting: Jointly Predicting Current and", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple object tracking", 
+        "group": 1
+    }, 
+    {
+        "name": "tracking objects", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple object", 
+        "group": 1
+    }, 
+    {
+        "name": "trajectory forecasting", 
+        "group": 1
+    }, 
+    {
+        "name": "forecasting", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Tae Soo Kim", 
+        "group": 1
+    }, 
+    {
+        "name": "moveable vehicle parts", 
+        "group": 1
+    }, 
+    {
+        "name": "real images", 
+        "group": 1
+    }, 
+    {
+        "name": "images", 
+        "group": 1
+    }, 
+    {
+        "name": "the art vehicle orientation estimators", 
+        "group": 1
+    }, 
+    {
+        "name": "orientation", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Unsupervised BatchNorm Adaptation (UBNA): A Domain Adaptation Method", 
+        "group": 1
+    }, 
+    {
+        "name": "target domains", 
+        "group": 1
+    }, 
+    {
+        "name": "source domain", 
+        "group": 1
+    }, 
+    {
+        "name": "replaying source", 
+        "group": 1
+    }, 
+    {
+        "name": "an unseen target domain", 
+        "group": 1
+    }, 
+    {
+        "name": "the target domain", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Interpretable Deep Learning-Based Forensic Iris Segmentation and Recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "iris annulus", 
+        "group": 1
+    }, 
+    {
+        "name": "postmortem iris recognition research", 
+        "group": 1
+    }, 
+    {
+        "name": "mobile phones", 
+        "group": 1
+    }, 
+    {
+        "name": "deceased subjects", 
+        "group": 1
+    }, 
+    {
+        "name": "classical iris", 
+        "group": 1
+    }, 
+    {
+        "name": "segmentation methods", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Late-resizing: A Simple but Effective Sketch Extraction Strategy", 
+        "group": 1
+    }, 
+    {
+        "name": "colorization", 
+        "group": 1
+    }, 
+    {
+        "name": "normalizing input sketches", 
+        "group": 1
+    }, 
+    {
+        "name": "sketch extraction", 
+        "group": 1
+    }, 
+    {
+        "name": "line art", 
+        "group": 1
+    }, 
+    {
+        "name": "Automatic line-art colorization", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Learnable Multi-level Frequency Decomposition and Hierarchical Attention", 
+        "group": 1
+    }, 
+    {
+        "name": "intra-dataset evaluations", 
+        "group": 1
+    }, 
+    {
+        "name": "face recognition systems", 
+        "group": 1
+    }, 
+    {
+        "name": "deep features", 
+        "group": 1
+    }, 
+    {
+        "name": "unseen scenarios", 
+        "group": 1
+    }, 
+    {
+        "name": "most experimental setups", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Learning Color Representations for Low-Light Image Enhancement", 
+        "group": 1
+    }, 
+    {
+        "name": "color representations", 
+        "group": 1
+    }, 
+    {
+        "name": "true color distribution", 
+        "group": 1
+    }, 
+    {
+        "name": "color features", 
+        "group": 1
+    }, 
+    {
+        "name": "Color", 
+        "group": 1
+    }, 
+    {
+        "name": "important information", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Learning Foreground-Background Segmentation from Improved Layered GANs", 
+        "group": 1
+    }, 
+    {
+        "name": "higher quality datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "related methods", 
+        "group": 1
+    }, 
+    {
+        "name": "Layered GANs", 
+        "group": 1
+    }, 
+    {
+        "name": "higher performance", 
+        "group": 1
+    }, 
+    {
+        "name": "layered GANs", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Detecting Arbitrary Intermediate Keypoints for Human Pose Estimation with", 
+        "group": 1
+    }, 
+    {
+        "name": "human readable keypoint vec-", 
+        "group": 1
+    }, 
+    {
+        "name": "keypoints", 
+        "group": 1
+    }, 
+    {
+        "name": "new points", 
+        "group": 1
+    }, 
+    {
+        "name": "tokens", 
+        "group": 1
+    }, 
+    {
+        "name": "body angles", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Class-aware Object Counting", 
+        "group": 1
+    }, 
+    {
+        "name": "object counts", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple object categories", 
+        "group": 1
+    }, 
+    {
+        "name": "objects varying object densities", 
+        "group": 1
+    }, 
+    {
+        "name": "low object", 
+        "group": 1
+    }, 
+    {
+        "name": "counts", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Modeling dynamic target deformation in camera calibration", 
+        "group": 1
+    }, 
+    {
+        "name": "calibration target", 
+        "group": 1
+    }, 
+    {
+        "name": "calibration targets", 
+        "group": 1
+    }, 
+    {
+        "name": "different calibration targets", 
+        "group": 1
+    }, 
+    {
+        "name": "target poses", 
+        "group": 1
+    }, 
+    {
+        "name": "camera calibration", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]MoESR: Blind Super-Resolution using Kernel-Aware Mixture of Experts", 
+        "group": 1
+    }, 
+    {
+        "name": "degradation kernels", 
+        "group": 1
+    }, 
+    {
+        "name": "unknown kernel conditions", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple blur kernels", 
+        "group": 1
+    }, 
+    {
+        "name": "super-resolution approaches", 
+        "group": 1
+    }, 
+    {
+        "name": "blind SR results", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Multi-Domain Incremental Learning for Semantic Segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "domain", 
+        "group": 1
+    }, 
+    {
+        "name": "new knowledge", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple geographical datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "visually disparate geographical domains", 
+        "group": 1
+    }, 
+    {
+        "name": "dedicated domain-specific parameters", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Multi-level Attentive Adversarial Learning with Temporal Dilation for", 
+        "group": 1
+    }, 
+    {
+        "name": "levels", 
+        "group": 1
+    }, 
+    {
+        "name": "individual domain discriminators", 
+        "group": 1
+    }, 
+    {
+        "name": "domain confusion", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple domain", 
+        "group": 1
+    }, 
+    {
+        "name": "insufficient alignment", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Multi-Task Classification of Sewer Pipe Defects and Properties using a", 
+        "group": 1
+    }, 
+    {
+        "name": "other multi-task classification approaches", 
+        "group": 1
+    }, 
+    {
+        "name": "cross-task information", 
+        "group": 1
+    }, 
+    {
+        "name": "sewer pipe defects", 
+        "group": 1
+    }, 
+    {
+        "name": "sewer pipe deterioration", 
+        "group": 1
+    }, 
+    {
+        "name": "sewer pipe properties", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Mutual Learning of Joint and Separate Domain Alignments for Multi-Source", 
+        "group": 1
+    }, 
+    {
+        "name": "different domain alignment", 
+        "group": 1
+    }, 
+    {
+        "name": "diverse source domains", 
+        "group": 1
+    }, 
+    {
+        "name": "multiple labeled source domains", 
+        "group": 1
+    }, 
+    {
+        "name": "domain gaps", 
+        "group": 1
+    }, 
+    {
+        "name": "a single domain alignment goal", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Myope Models - Are face presentation attack detection models short-sighted?", 
+        "group": 1
+    }, 
+    {
+        "name": "face crops", 
+        "group": 1
+    }, 
+    {
+        "name": "impostors", 
+        "group": 1
+    }, 
+    {
+        "name": "background information", 
+        "group": 1
+    }, 
+    {
+        "name": "background elements", 
+        "group": 1
+    }, 
+    {
+        "name": "human inspection", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo", 
+        "group": 1
+    }, 
+    {
+        "name": "multi-view images", 
+        "group": 1
+    }, 
+    {
+        "name": "3D occupancy information", 
+        "group": 1
+    }, 
+    {
+        "name": "surface normals", 
+        "group": 1
+    }, 
+    {
+        "name": "MVPS", 
+        "group": 1
+    }, 
+    {
+        "name": "a multi-view neural radiance field representation", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]No-Reference Image Quality Assessment via Transformers, Relative Ranking,", 
+        "group": 1
+    }, 
+    {
+        "name": "various datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "NR-", 
+        "group": 1
+    }, 
+    {
+        "name": "IQA models", 
+        "group": 1
+    }, 
+    {
+        "name": "the input image", 
+        "group": 1
+    }, 
+    {
+        "name": "our quality assessment model", 
+        "group": 1
+    }, 
+    {
+        "name": "IQA", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Normalizing Flow as a Flexible Fidelity Objective for Photo-Realistic", 
+        "group": 1
+    }, 
+    {
+        "name": "adversarial losses", 
+        "group": 1
+    }, 
+    {
+        "name": "plausible solutions", 
+        "group": 1
+    }, 
+    {
+        "name": "deeper flows", 
+        "group": 1
+    }, 
+    {
+        "name": "general flows", 
+        "group": 1
+    }, 
+    {
+        "name": "L1", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Novel Ensemble Diversification Methods for Open-Set Scenarios", 
+        "group": 1
+    }, 
+    {
+        "name": "models", 
+        "group": 1
+    }, 
+    {
+        "name": "put features", 
+        "group": 1
+    }, 
+    {
+        "name": "previously trained ensemble models", 
+        "group": 1
+    }, 
+    {
+        "name": "accuracy improvements", 
+        "group": 1
+    }, 
+    {
+        "name": "diversity", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Novel-View Synthesis of Human Tourist Photos", 
+        "group": 1
+    }, 
+    {
+        "name": "human tourist photos", 
+        "group": 1
+    }, 
+    {
+        "name": "photos", 
+        "group": 1
+    }, 
+    {
+        "name": "synthesized backgrounds", 
+        "group": 1
+    }, 
+    {
+        "name": "various tourists", 
+        "group": 1
+    }, 
+    {
+        "name": "background", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Occlusion Resistant Network for 3D Face Reconstruction", 
+        "group": 1
+    }, 
+    {
+        "name": "occluded face images", 
+        "group": 1
+    }, 
+    {
+        "name": "face image", 
+        "group": 1
+    }, 
+    {
+        "name": "occluded face", 
+        "group": 1
+    }, 
+    {
+        "name": "facial occlusions", 
+        "group": 1
+    }, 
+    {
+        "name": "visible facial features", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]One-Class Learned Encoder-Decoder Network with Adversarial Context", 
+        "group": 1
+    }, 
+    {
+        "name": "masked images", 
+        "group": 1
+    }, 
+    {
+        "name": "Novelty detection", 
+        "group": 1
+    }, 
+    {
+        "name": "Novelty detection experiments", 
+        "group": 1
+    }, 
+    {
+        "name": "novelty de-", 
+        "group": 1
+    }, 
+    {
+        "name": "Equal Error Rate", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Ortho-Shot: Low Displacement Rank Regularization with Data Augmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "novel classes", 
+        "group": 1
+    }, 
+    {
+        "name": "data augmentation strategies", 
+        "group": 1
+    }, 
+    {
+        "name": "data diversity", 
+        "group": 1
+    }, 
+    {
+        "name": "few-shot classiﬁcation", 
+        "group": 1
+    }, 
+    {
+        "name": "proper model", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Pixel-by-Pixel Cross-Domain Alignment for Few-Shot Semantic Segmentation", 
+        "group": 1
+    }, 
+    {
+        "name": "many", 
+        "group": 1
+    }, 
+    {
+        "name": "annotated synthetic images", 
+        "group": 1
+    }, 
+    {
+        "name": "the few target images", 
+        "group": 1
+    }, 
+    {
+        "name": "target data", 
+        "group": 1
+    }, 
+    {
+        "name": "infrequent classes", 
+        "group": 1
+    }, 
+    {
+        "name": "only few real-world annotated images", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]PoP-Net: Pose over Parts Network for Multi-Person 3D Pose Estimation from a", 
+        "group": 1
+    }, 
+    {
+        "name": "multi-person 3D", 
+        "group": 1
+    }, 
+    {
+        "name": "uncontrolled multi-person scenarios", 
+        "group": 1
+    }, 
+    {
+        "name": "Multi-Person 3D Human Pose Dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "multi-person", 
+        "group": 1
+    }, 
+    {
+        "name": "processing", 
+        "group": 1
+    }, 
+    {
+        "name": "MP-3DHP Dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Pose and Joint-Aware Action Recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "action recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "activity recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "succinct human motion", 
+        "group": 1
+    }, 
+    {
+        "name": "action", 
+        "group": 1
+    }, 
+    {
+        "name": "recognition datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "joint-based action recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Pose-guided Generative Adversarial Net for Novel View Action Synthesis", 
+        "group": 1
+    }, 
+    {
+        "name": "human action", 
+        "group": 1
+    }, 
+    {
+        "name": "actions", 
+        "group": 1
+    }, 
+    {
+        "name": "novel-view human action", 
+        "group": 1
+    }, 
+    {
+        "name": "novel", 
+        "group": 1
+    }, 
+    {
+        "name": "view video synthesis", 
+        "group": 1
+    }, 
+    {
+        "name": "a novel target view", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Post-OCR Paragraph Recognition by Graph Convolutional Networks", 
+        "group": 1
+    }, 
+    {
+        "name": "spatial graph convolutional networks", 
+        "group": 1
+    }, 
+    {
+        "name": "OCR text boxes", 
+        "group": 1
+    }, 
+    {
+        "name": "bounding boxes", 
+        "group": 1
+    }, 
+    {
+        "name": "other datasets", 
+        "group": 1
+    }, 
+    {
+        "name": "efficient support", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Quantified Facial Expressiveness for Affective Behavior Analytics", 
+        "group": 1
+    }, 
+    {
+        "name": "useful insight", 
+        "group": 1
+    }, 
+    {
+        "name": "facial expressiveness", 
+        "group": 1
+    }, 
+    {
+        "name": "facial behavior tracking", 
+        "group": 1
+    }, 
+    {
+        "name": "context", 
+        "group": 1
+    }, 
+    {
+        "name": "expressiveness quantification", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Reconstructing Training Data from Diverse ML Models by Ensemble Inversion", 
+        "group": 1
+    }, 
+    {
+        "name": "training data", 
+        "group": 1
+    }, 
+    {
+        "name": "original training samples", 
+        "group": 1
+    }, 
+    {
+        "name": "MI techniques", 
+        "group": 1
+    }, 
+    {
+        "name": "cor-", 
+        "group": 1
+    }, 
+    {
+        "name": "responding defense techniques", 
+        "group": 1
+    }, 
+    {
+        "name": "research attention", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]RGL-NET: A Recurrent Graph Learning framework for Progressive Part", 
+        "group": 1
+    }, 
+    {
+        "name": "part accuracy", 
+        "group": 1
+    }, 
+    {
+        "name": "inter-part relations", 
+        "group": 1
+    }, 
+    {
+        "name": "shape recovery", 
+        "group": 1
+    }, 
+    {
+        "name": "structural variants", 
+        "group": 1
+    }, 
+    {
+        "name": "shape structure", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Monocular Depth Estimation Using Multi Scale Neural Network And Feature", 
+        "group": 1
+    }, 
+    {
+        "name": "SSIM loss term", 
+        "group": 1
+    }, 
+    {
+        "name": "RMSE loss", 
+        "group": 1
+    }, 
+    {
+        "name": "loss", 
+        "group": 1
+    }, 
+    {
+        "name": "NYU Depth V2 dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "Make 3D dataset", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Sandwich Batch Normalization:", 
+        "group": 1
+    }, 
+    {
+        "name": "several parallel independent affine layers", 
+        "group": 1
+    }, 
+    {
+        "name": "model heterogeneity", 
+        "group": 1
+    }, 
+    {
+        "name": "many tasks", 
+        "group": 1
+    }, 
+    {
+        "name": "data heterogeneity", 
+        "group": 1
+    }, 
+    {
+        "name": "arbitrary style", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]SBEVNet: End-to-End Deep Stereo Layout Estimation", 
+        "group": 1
+    }, 
+    {
+        "name": "stereo features", 
+        "group": 1
+    }, 
+    {
+        "name": "IPM features", 
+        "group": 1
+    }, 
+    {
+        "name": "layout estimation", 
+        "group": 1
+    }, 
+    {
+        "name": "Accurate layout estimation", 
+        "group": 1
+    }, 
+    {
+        "name": "bird’s eye view layout", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]SeeTek: Very Large-Scale Open-set Logo Recognition with Text-Aware Metric", 
+        "group": 1
+    }, 
+    {
+        "name": "brand name text", 
+        "group": 1
+    }, 
+    {
+        "name": "brand names", 
+        "group": 1
+    }, 
+    {
+        "name": "brands", 
+        "group": 1
+    }, 
+    {
+        "name": "Amazon Product Catalog", 
+        "group": 1
+    }, 
+    {
+        "name": "logo recognition", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]SEGA: Semantic Guided Attention on Visual Prototype for Few-Shot Learning", 
+        "group": 1
+    }, 
+    {
+        "name": "semantic knowledge", 
+        "group": 1
+    }, 
+    {
+        "name": "few training samples", 
+        "group": 1
+    }, 
+    {
+        "name": "few samples", 
+        "group": 1
+    }, 
+    {
+        "name": "base classes", 
+        "group": 1
+    }, 
+    {
+        "name": "new classes", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Semantically Stealthy Adversarial Attacks against Segmentation Models", 
+        "group": 1
+    }, 
+    {
+        "name": "targeted labels", 
+        "group": 1
+    }, 
+    {
+        "name": "target objects", 
+        "group": 1
+    }, 
+    {
+        "name": "Segmentation models", 
+        "group": 1
+    }, 
+    {
+        "name": "segmentation models", 
+        "group": 1
+    }, 
+    {
+        "name": "targeted and non-targeted adversarial attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Sharing Decoders: Network Fission for Multi-task Pixel Prediction", 
+        "group": 1
+    }, 
+    {
+        "name": "additional tasks", 
+        "group": 1
+    }, 
+    {
+        "name": "task", 
+        "group": 1
+    }, 
+    {
+        "name": "conventional multi-task methods", 
+        "group": 1
+    }, 
+    {
+        "name": "multi-task pixel-wise labeling use", 
+        "group": 1
+    }, 
+    {
+        "name": "separate decoders", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]SIDE: Center-based Stereo 3D Detector with Structure-aware", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]SpectraNet: Learned Recognition of Artificial Satellites from High Contrast", 
+        "group": 1
+    }, 
+    {
+        "name": "ground based observatories", 
+        "group": 1
+    }, 
+    {
+        "name": "Effective space domain awareness", 
+        "group": 1
+    }, 
+    {
+        "name": "space domain", 
+        "group": 1
+    }, 
+    {
+        "name": "low earth orbits", 
+        "group": 1
+    }, 
+    {
+        "name": "geostationary orbits", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Video-Based Ski Jump Style Scoring from Pose Trajectory", 
+        "group": 1
+    }, 
+    {
+        "name": "real judges", 
+        "group": 1
+    }, 
+    {
+        "name": "automatic style scoring", 
+        "group": 1
+    }, 
+    {
+        "name": "Ski jumping", 
+        "group": 1
+    }, 
+    {
+        "name": "ski jumping", 
+        "group": 1
+    }, 
+    {
+        "name": "the style score", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]StyleMC: Multi-Channel Based Fast Text-Guided Image Generation", 
+        "group": 1
+    }, 
+    {
+        "name": "manipulation", 
+        "group": 1
+    }, 
+    {
+        "name": "labeled data", 
+        "group": 1
+    }, 
+    {
+        "name": "large amounts", 
+        "group": 1
+    }, 
+    {
+        "name": "semantic attributes", 
+        "group": 1
+    }, 
+    {
+        "name": "Contrastive Language-Image Pre-training", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Tensor-Based Non-Rigid Structure from Motion", 
+        "group": 1
+    }, 
+    {
+        "name": "affine projection matrices", 
+        "group": 1
+    }, 
+    {
+        "name": "structure", 
+        "group": 1
+    }, 
+    {
+        "name": "motion", 
+        "group": 1
+    }, 
+    {
+        "name": "the basis shape coefficients", 
+        "group": 1
+    }, 
+    {
+        "name": "analysis", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]The Untapped Potential of Off-the-Shelf Convolutional Neural Networks", 
+        "group": 1
+    }, 
+    {
+        "name": "model performance", 
+        "group": 1
+    }, 
+    {
+        "name": "current models", 
+        "group": 1
+    }, 
+    {
+        "name": "models", 
+        "group": 1
+    }, 
+    {
+        "name": "static models", 
+        "group": 1
+    }, 
+    {
+        "name": "challenging recognition tasks", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Towards a Robust Differentiable Architecture Search under Label Noise", 
+        "group": 1
+    }, 
+    {
+        "name": "label noise", 
+        "group": 1
+    }, 
+    {
+        "name": "noisy labels", 
+        "group": 1
+    }, 
+    {
+        "name": "many algorithms", 
+        "group": 1
+    }, 
+    {
+        "name": "NAS outperform", 
+        "group": 1
+    }, 
+    {
+        "name": "class labels", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Towards Durability Estimation of Bioprosthetic Heart Valves Via Motion", 
+        "group": 1
+    }, 
+    {
+        "name": "valve leaflet motion", 
+        "group": 1
+    }, 
+    {
+        "name": "BHV leaflets", 
+        "group": 1
+    }, 
+    {
+        "name": "bioprosthetic heart valve", 
+        "group": 1
+    }, 
+    {
+        "name": "Valve designs", 
+        "group": 1
+    }, 
+    {
+        "name": "pulsatile flow tests", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Transductive Weakly-Supervised Player Detection using Soccer Broadcast", 
+        "group": 1
+    }, 
+    {
+        "name": "soccer broadcast videos", 
+        "group": 1
+    }, 
+    {
+        "name": "Player detection", 
+        "group": 1
+    }, 
+    {
+        "name": "player detection", 
+        "group": 1
+    }, 
+    {
+        "name": "Broadcast match videos", 
+        "group": 1
+    }, 
+    {
+        "name": "video", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Transfer Learning for Pose Estimation of Illustrated Characters", 
+        "group": 1
+    }, 
+    {
+        "name": "assistive content creation tasks", 
+        "group": 1
+    }, 
+    {
+        "name": "Human pose information", 
+        "group": 1
+    }, 
+    {
+        "name": "pose-guided illustration retrieval", 
+        "group": 1
+    }, 
+    {
+        "name": "refer-", 
+        "group": 1
+    }, 
+    {
+        "name": "ence pose retrieval and automatic character animation", 
+        "group": 1
+    }, 
+    {
+        "name": "illustrations", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Towards Camera Enabled Touch Typing on Flat Surfaces through", 
+        "group": 1
+    }, 
+    {
+        "name": "natural typing speeds", 
+        "group": 1
+    }, 
+    {
+        "name": "known users", 
+        "group": 1
+    }, 
+    {
+        "name": "surface videos", 
+        "group": 1
+    }, 
+    {
+        "name": "users", 
+        "group": 1
+    }, 
+    {
+        "name": "touch typing", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Unsupervised Learning for Human Sensing Using Radio Signals", 
+        "group": 1
+    }, 
+    {
+        "name": "RF signals", 
+        "group": 1
+    }, 
+    {
+        "name": "unlabelled RF signals", 
+        "group": 1
+    }, 
+    {
+        "name": "such unlabeled RF data", 
+        "group": 1
+    }, 
+    {
+        "name": "various tasks", 
+        "group": 1
+    }, 
+    {
+        "name": "RF", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Unsupervised Sounding Object Localization with", 
+        "group": 1
+    }, 
+    {
+        "name": "visual scenes", 
+        "group": 1
+    }, 
+    {
+        "name": "attention", 
+        "group": 1
+    }, 
+    {
+        "name": "manual annotations", 
+        "group": 1
+    }, 
+    {
+        "name": "sound", 
+        "group": 1
+    }, 
+    {
+        "name": "and visual regions", 
+        "group": 1
+    }, 
+    {
+        "name": "objects", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Weakly Supervised Learning for Joint Image Denoising and Protein Localization", 
+        "group": 1
+    }, 
+    {
+        "name": "input images", 
+        "group": 1
+    }, 
+    {
+        "name": "EM images", 
+        "group": 1
+    }, 
+    {
+        "name": "clean images", 
+        "group": 1
+    }, 
+    {
+        "name": "image", 
+        "group": 1
+    }, 
+    {
+        "name": "images", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]X-MIR: EXplainable Medical Image Retrieval", 
+        "group": 1
+    }, 
+    {
+        "name": "image similarity", 
+        "group": 1
+    }, 
+    {
+        "name": "medical images", 
+        "group": 1
+    }, 
+    {
+        "name": "saliency maps", 
+        "group": 1
+    }, 
+    {
+        "name": "interventional tools", 
+        "group": 1
+    }, 
+    {
+        "name": "mapping", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data for", 
+        "group": 1
+    }, 
+    {
+        "name": "ultra-high resolution cameras", 
+        "group": 1
+    }, 
+    {
+        "name": "tiny animal depictions", 
+        "group": 1
+    }, 
+    {
+        "name": "animal", 
+        "group": 1
+    }, 
+    {
+        "name": "high confidence", 
+        "group": 1
+    }, 
+    {
+        "name": "AED", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Supervised Contrastive Learning for Generalizable and Explainable DeepFakes", 
+        "group": 1
+    }, 
+    {
+        "name": "unknown attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "unseen attacks", 
+        "group": 1
+    }, 
+    {
+        "name": "proposed fusion", 
+        "group": 1
+    }, 
+    {
+        "name": "different architectures", 
+        "group": 1
+    }, 
+    {
+        "name": "proposed SupCon", 
+        "group": 1
+    }, 
+    {
+        "name": "model", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Feature-Align Network with Knowledge Distillation for Efficient Denoising", 
+        "group": 1
+    }, 
+    {
+        "name": "17.6× fewer parameters", 
+        "group": 1
+    }, 
+    {
+        "name": "image restoration", 
+        "group": 1
+    }, 
+    {
+        "name": "RAW image", 
+        "group": 1
+    }, 
+    {
+        "name": "mobile devices", 
+        "group": 1
+    }, 
+    {
+        "name": "MACs", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Argus++: Robust Real-time Activity Detection", 
+        "group": 1
+    }, 
+    {
+        "name": "brute force expansion", 
+        "group": 1
+    }, 
+    {
+        "name": "views", 
+        "group": 1
+    }, 
+    {
+        "name": "large field", 
+        "group": 1
+    }, 
+    {
+        "name": "inputs", 
+        "group": 1
+    }, 
+    {
+        "name": "real-world unconstrained video streams", 
+        "group": 1
+    }, 
+    {
+        "name": "[title]Subjective Quality Assessment of User-Generated Content Gaming Videos", 
+        "group": 1
+    }, 
+    {
+        "name": "gaming videos", 
+        "group": 1
+    }, 
+    {
+        "name": "perceptual video quality assessment", 
+        "group": 1
+    }, 
+    {
+        "name": "videos", 
+        "group": 1
+    }, 
+    {
+        "name": "VQA research", 
+        "group": 1
+    }, 
+    {
+        "name": "UGC", 
+        "group": 1
+    }
+])

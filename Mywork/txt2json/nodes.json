@@ -1,0 +1,10 @@
+getnodesJson([
+    { "name": "A Pixel-Level Meta-Learner", "group":1},
+    { "name": "such ground truth information", "group":1},
+    { "name": "query image inputs", "group":1 },
+    { "name": "Few-shot semantic segmentation", "group":1},
+    { "name": "weakly supervised settings", "group":1},
+    { "name": "ground truth pixel-level labels", "group":1},
+    { "name": "Addressing out-of-distribution label noise in webly-labelled data", "group":1},
+    { "name": "real label noise datasets", "group":1}
+])

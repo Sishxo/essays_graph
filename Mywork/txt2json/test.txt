@@ -1,0 +1,115 @@
+A Pixel-Level Meta-Learner
+Few-shot semantic segmentation addresses the learning
+task in which only few images with ground truth pixel-level
+labels are available for the novel classes of interest. One
+is typically required to collect a large mount of data (i.e.,
+base classes) with such ground truth information, followed
+by meta-learning strategies to address the above learning
+task. When only image-level semantic labels can be ob-
+served during both training and testing, it is considered
+as an even more challenging task of weakly supervised
+few-shot semantic segmentation. To address this problem,
+we propose a novel meta-learning framework, which pre-
+dicts pseudo pixel-level segmentation masks from a limited
+amount of data and their semantic labels. More impor-
+tantly, our learning scheme further exploits the produced
+pixel-level information for query image inputs with segmen-
+tation guarantees. Thus, our proposed learning model can
+be viewed as a pixel-level meta-learner. Through exten-
+sive experiments on benchmark datasets, we show that our
+model achieves satisfactory performances under fully su-
+pervised settings, yet performs favorably against state-of-
+the-art methods under weakly supervised settings.
+
+A Pixel-Level Meta-Learner
+Few-shot semantic segmentation addresses the learning
+task in which only few images with ground truth pixel-level
+labels are available for the novel classes of interest. One
+is typically required to collect a large mount of data (i.e.,
+base classes) with such ground truth information, followed
+by meta-learning strategies to address the above learning
+task. When only image-level semantic labels can be ob-
+served during both training and testing, it is considered
+as an even more challenging task of weakly supervised
+few-shot semantic segmentation. To address this problem,
+we propose a novel meta-learning framework, which pre-
+dicts pseudo pixel-level segmentation masks from a limited
+amount of data and their semantic labels. More impor-
+tantly, our learning scheme further exploits the produced
+pixel-level information for query image inputs with segmen-
+tation guarantees. Thus, our proposed learning model can
+be viewed as a pixel-level meta-learner. Through exten-
+sive experiments on benchmark datasets, we show that our
+model achieves satisfactory performances under fully su-
+pervised settings, yet performs favorably against state-of-
+the-art methods under weakly supervised settings.
+
+A Pixel-Level Meta-Learner
+Few-shot semantic segmentation addresses the learning
+task in which only few images with ground truth pixel-level
+labels are available for the novel classes of interest. One
+is typically required to collect a large mount of data (i.e.,
+base classes) with such ground truth information, followed
+by meta-learning strategies to address the above learning
+task. When only image-level semantic labels can be ob-
+served during both training and testing, it is considered
+as an even more challenging task of weakly supervised
+few-shot semantic segmentation. To address this problem,
+we propose a novel meta-learning framework, which pre-
+dicts pseudo pixel-level segmentation masks from a limited
+amount of data and their semantic labels. More impor-
+tantly, our learning scheme further exploits the produced
+pixel-level information for query image inputs with segmen-
+tation guarantees. Thus, our proposed learning model can
+be viewed as a pixel-level meta-learner. Through exten-
+sive experiments on benchmark datasets, we show that our
+model achieves satisfactory performances under fully su-
+pervised settings, yet performs favorably against state-of-
+the-art methods under weakly supervised settings.
+
+A Pixel-Level Meta-Learner
+Few-shot semantic segmentation addresses the learning
+task in which only few images with ground truth pixel-level
+labels are available for the novel classes of interest. One
+is typically required to collect a large mount of data (i.e.,
+base classes) with such ground truth information, followed
+by meta-learning strategies to address the above learning
+task. When only image-level semantic labels can be ob-
+served during both training and testing, it is considered
+as an even more challenging task of weakly supervised
+few-shot semantic segmentation. To address this problem,
+we propose a novel meta-learning framework, which pre-
+dicts pseudo pixel-level segmentation masks from a limited
+amount of data and their semantic labels. More impor-
+tantly, our learning scheme further exploits the produced
+pixel-level information for query image inputs with segmen-
+tation guarantees. Thus, our proposed learning model can
+be viewed as a pixel-level meta-learner. Through exten-
+sive experiments on benchmark datasets, we show that our
+model achieves satisfactory performances under fully su-
+pervised settings, yet performs favorably against state-of-
+the-art methods under weakly supervised settings.
+
+A Pixel-Level Meta-Learner
+Few-shot semantic segmentation addresses the learning
+task in which only few images with ground truth pixel-level
+labels are available for the novel classes of interest. One
+is typically required to collect a large mount of data (i.e.,
+base classes) with such ground truth information, followed
+by meta-learning strategies to address the above learning
+task. When only image-level semantic labels can be ob-
+served during both training and testing, it is considered
+as an even more challenging task of weakly supervised
+few-shot semantic segmentation. To address this problem,
+we propose a novel meta-learning framework, which pre-
+dicts pseudo pixel-level segmentation masks from a limited
+amount of data and their semantic labels. More impor-
+tantly, our learning scheme further exploits the produced
+pixel-level information for query image inputs with segmen-
+tation guarantees. Thus, our proposed learning model can
+be viewed as a pixel-level meta-learner. Through exten-
+sive experiments on benchmark datasets, we show that our
+model achieves satisfactory performances under fully su-
+pervised settings, yet performs favorably against state-of-
+the-art methods under weakly supervised settings.
+
