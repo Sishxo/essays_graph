@@ -1,0 +1,706 @@
+[title]A Pixel-Level Meta-Learner
+such ground truth information
+query image inputs
+Few-shot semantic segmentation
+weakly supervised settings
+ground truth pixel-level labels
+
+[title]Addressing out-of-distribution label noise in webly-labelled data
+real label noise datasets
+datasets
+web noise distribution
+label noise
+noisy labels
+
+[title]AE-StyleGAN: Improved Training of Style-Based Auto-Encoders
+end
+generation quality
+real data lead
+image
+
+latent space
+
+[title]Morph Detection Enhanced by Structured Group Sparsity
+morphed images
+bands
+MorGAN
+face
+
+[title]Event-driven Re-Id: A New Benchmark and Method Towards
+re-id model
+-
+more distinct edge patterns
+Event cameras
+
+[title]AirCamRTM: Enhancing Vehicle Detection for Efﬁcient Aerial Camera-based
+trafﬁc congestion
+monitoring
+relevant vehicles
+real-time trafﬁc monitoring
+∼
+
+[title]Fight Detection from Still Images in the Wild
+ﬁght actions
+SMFI dataset
+ﬁghts
+social media
+cross-dataset experiments
+
+[title]An Investigation of Critical Issues in Bias Mitigation Techniques
+hidden biases
+multiple bias sources
+future bias mitigation methods
+bias
+inappropriate biases
+
+[title]Real-time Bangla License Plate Recognition System for Low Resource
+high confidence detections
+dataset
+recognition
+inference time
+82.7% detection rate
+
+[title]Attack Agnostic Detection of Adversarial Examples via
+adversarial attack detection
+AU C ∈
+most current detection approaches
+clean examples
+Performance evaluations
+
+[title]A Personalized Benchmark for Face Anti-spoofing
+SiW
+SiW-Enroll
+protected data
+such systems
+anti-spoofing benchmarks
+
+[title]DIOR: DIstill Observations to Representations for
+Multi-object tracking
+features
+instance segmentation
+MOTS
+autonomous driving
+
+[title]CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking
+road
+lower resolutions
+detection
+existing methods
+novel approaches
+
+[title]CharacterGAN: Few-Shot Keypoint Character Animation and Reposing
+diverse characters
+realistic animations
+realistic results
+animation
+interactive feedback
+
+[title]Cleaning Noisy Labels by Negative Ensemble Learning for Source-Free
+source data samples
+source data
+domain data
+source
+ensemble members
+
+[title]Contextual Proposal Network for Action Localization
+bi-directional temporal contexts
+long untrimmed videos
+such
+bi-directional temporal contexts
+Proposal Network
+the bi-directional recurrent neural networks
+
+[title]CrossLocate: Cross-modal Large-scale Visual Geo-Localization
+depth maps
+silhouette maps
+vast localization areas
+rendered images
+available data
+
+[title]Danish Fungi 2020 – Not Just Another Image Recognition Dataset
+rich observation metadata
+observation metadata
+errors
+CNN baselines
+CNN
+
+[title]DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image
+SR performance
+other quantization methods
+SR
+recent SR networks
+quantization
+
+[title]Data InStance Prior (DISP) in Generative Adversarial Networks
+image quality
+few target images
+diversity
+low data
+informative data
+
+[title]Dataset Knowledge Transfer for Class-Incremental Learning without Memory
+memory
+bias correction parameters
+past classes
+bias correction
+past data
+
+[title]Deep Online Fused Video Stabilization
+ablation studies
+video stabilization
+quantitative evaluations
+videos
+unsupervised learning
+
+[title]Detail Preserving Residual Feature Pyramid Modules for Optical Flow
+optical flow estimation
+multiple feature pyramids
+iterative refinement
+a typical full optical flow training schedule
+Feature pyramids
+
+[title]DG-Labeler and DGL-MOTS Dataset:
+autonomous driving applications
+Multi-object tracking
+MOTS
+segmentation
+a crit-
+ical task
+
+[title]Improving Person Re-Identiﬁcation with Temporal Constraints
+-ranking post-processing step
+timestamp information
+person
+Rank1 accuracy
+ﬁve non-overlapping
+camera views
+
+[title]Digital and Physical-World Attacks on Remote Pulse Detection
+face video
+presentation attacks
+rPPG methods
+reflected light with-
+imperceptible periodic noise
+
+[title]Evaluating the Robustness of Semantic Segmentation for Autonomous Driving
+adversarial attacks
+SS models
+autonomous driving
+adversarial perturbations
+powerful attacks
+
+[title]FASSST: Fast Attention Based Single-Stage Segmentation Net for Real-Time
+ROI features
+instance segmentation
+features
+class probabilities
+Jetson Xavier NX
+
+[title]FastAno: Fast Anomaly Detection
+Video anomaly detection
+abnormal frames
+surveillance videos
+fast speed
+inference
+
+[title]Few-Shot Object Detection by Attending to Per-Sample-Prototype
+support samples
+support data
+shared information
+each support sample
+category
+
+[title]Forgery Detection by Internal Positional Learning of Demosaicing Traces
+existing mosaic detection methods
+various post-processing and counter-forensic artefacts
+ﬁnd forgeries
+mosaic
+JPEG compression
+
+[title]Video representation learning through prediction for online object detection
+video representations
+stochastic video prediction
+future video prediction
+video
+videos
+
+[title]Video representation learning through prediction for online object detection
+video representations
+stochastic video prediction
+future video prediction
+video
+videos
+
+[title]GANs Spatial Control via Inference-Time Adaptive Normalization
+GAN
+ation effects
+the GAN’s
+high visual quality
+the image
+
+[title]Generating and Controlling Diversity in Image Search
+content users
+content providers
+existing content
+gender
+user studies
+
+[title]VQuAD: Video Question Answering Diagnostic Dataset
+language features
+video features
+abilities
+Previous datasets
+biases
+
+[title]Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help
+DP
+a single-image deblurring network
+the single input image
+reﬂection
+the two sub-aperture views
+
+[title]In-Field Phenotyping Based on Crop Leaf and Plant Instance Segmentation
+plant scientists
+plant
+real field
+real fields
+phenotypic traits
+
+[title]Inferring the Class Conditional Response Map
+better pseudo-labels
+better pseudo labels
+class activation maps
+objects
+segmentation training
+
+[title]Intelligent Camera Selection Decisions for Target Tracking in a Camera Network
+camera selection decisions
+camera selection
+larger camera networks
+Re-ID queries
+candidate cameras
+
+[title]Multiple Object Tracking and Forecasting: Jointly Predicting Current and
+multiple object tracking
+tracking objects
+multiple object
+trajectory forecasting
+forecasting
+
+[title]Tae Soo Kim
+moveable vehicle parts
+real images
+images
+the art vehicle orientation estimators
+orientation
+
+[title]Unsupervised BatchNorm Adaptation (UBNA): A Domain Adaptation Method
+target domains
+source domain
+replaying source
+an unseen target domain
+the target domain
+
+[title]Interpretable Deep Learning-Based Forensic Iris Segmentation and Recognition
+iris annulus
+postmortem iris recognition research
+mobile phones
+deceased subjects
+classical iris
+segmentation methods
+
+[title]Late-resizing: A Simple but Effective Sketch Extraction Strategy
+colorization
+normalizing input sketches
+sketch extraction
+line art
+Automatic line-art colorization
+
+[title]Learnable Multi-level Frequency Decomposition and Hierarchical Attention
+intra-dataset evaluations
+face recognition systems
+deep features
+unseen scenarios
+most experimental setups
+
+[title]Learning Color Representations for Low-Light Image Enhancement
+color representations
+true color distribution
+color features
+Color
+important information
+
+[title]Learning Foreground-Background Segmentation from Improved Layered GANs
+higher quality datasets
+related methods
+Layered GANs
+higher performance
+layered GANs
+
+[title]Detecting Arbitrary Intermediate Keypoints for Human Pose Estimation with
+human readable keypoint vec-
+keypoints
+new points
+tokens
+body angles
+
+[title]Class-aware Object Counting
+object counts
+multiple object categories
+objects varying object densities
+low object
+counts
+
+[title]Modeling dynamic target deformation in camera calibration
+calibration target
+calibration targets
+different calibration targets
+target poses
+camera calibration
+
+[title]MoESR: Blind Super-Resolution using Kernel-Aware Mixture of Experts
+degradation kernels
+unknown kernel conditions
+multiple blur kernels
+super-resolution approaches
+blind SR results
+
+[title]Multi-Domain Incremental Learning for Semantic Segmentation
+domain
+new knowledge
+multiple geographical datasets
+visually disparate geographical domains
+dedicated domain-specific parameters
+
+[title]Multi-level Attentive Adversarial Learning with Temporal Dilation for
+levels
+individual domain discriminators
+domain confusion
+multiple domain
+insufficient alignment
+
+[title]Multi-Task Classification of Sewer Pipe Defects and Properties using a
+other multi-task classification approaches
+cross-task information
+sewer pipe defects
+sewer pipe deterioration
+sewer pipe properties
+
+[title]Mutual Learning of Joint and Separate Domain Alignments for Multi-Source
+different domain alignment
+diverse source domains
+multiple labeled source domains
+domain gaps
+a single domain alignment goal
+
+[title]Myope Models - Are face presentation attack detection models short-sighted?
+face crops
+impostors
+background information
+background elements
+human inspection
+
+[title]Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo
+multi-view images
+3D occupancy information
+surface normals
+MVPS
+a multi-view neural radiance field representation
+
+[title]No-Reference Image Quality Assessment via Transformers, Relative Ranking,
+various datasets
+NR-
+IQA models
+the input image
+our quality assessment model
+IQA
+
+[title]Normalizing Flow as a Flexible Fidelity Objective for Photo-Realistic
+adversarial losses
+plausible solutions
+deeper flows
+general flows
+L1
+
+[title]Novel Ensemble Diversification Methods for Open-Set Scenarios
+models
+put features
+previously trained ensemble models
+accuracy improvements
+diversity
+
+[title]Novel-View Synthesis of Human Tourist Photos
+human tourist photos
+photos
+synthesized backgrounds
+various tourists
+background
+
+[title]Occlusion Resistant Network for 3D Face Reconstruction
+occluded face images
+face image
+occluded face
+facial occlusions
+visible facial features
+
+[title]One-Class Learned Encoder-Decoder Network with Adversarial Context
+masked images
+Novelty detection
+Novelty detection experiments
+novelty de-
+Equal Error Rate
+
+[title]Ortho-Shot: Low Displacement Rank Regularization with Data Augmentation
+novel classes
+data augmentation strategies
+data diversity
+few-shot classiﬁcation
+proper model
+
+[title]Pixel-by-Pixel Cross-Domain Alignment for Few-Shot Semantic Segmentation
+many
+annotated synthetic images
+the few target images
+target data
+infrequent classes
+only few real-world annotated images
+
+[title]PoP-Net: Pose over Parts Network for Multi-Person 3D Pose Estimation from a
+multi-person 3D
+uncontrolled multi-person scenarios
+Multi-Person 3D Human Pose Dataset
+multi-person
+processing
+MP-3DHP Dataset
+
+[title]Pose and Joint-Aware Action Recognition
+action recognition
+activity recognition
+succinct human motion
+action
+recognition datasets
+joint-based action recognition
+
+[title]Pose-guided Generative Adversarial Net for Novel View Action Synthesis
+human action
+actions
+novel-view human action
+novel
+view video synthesis
+a novel target view
+
+[title]Post-OCR Paragraph Recognition by Graph Convolutional Networks
+spatial graph convolutional networks
+OCR text boxes
+bounding boxes
+other datasets
+efficient support
+
+[title]Quantified Facial Expressiveness for Affective Behavior Analytics
+useful insight
+facial expressiveness
+facial behavior tracking
+context
+expressiveness quantification
+
+[title]Reconstructing Training Data from Diverse ML Models by Ensemble Inversion
+training data
+original training samples
+MI techniques
+cor-
+responding defense techniques
+research attention
+
+[title]RGL-NET: A Recurrent Graph Learning framework for Progressive Part
+part accuracy
+inter-part relations
+shape recovery
+structural variants
+shape structure
+
+[title]Monocular Depth Estimation Using Multi Scale Neural Network And Feature
+SSIM loss term
+RMSE loss
+loss
+NYU Depth V2 dataset
+Make 3D dataset
+
+[title]Sandwich Batch Normalization:
+several parallel independent affine layers
+model heterogeneity
+many tasks
+data heterogeneity
+arbitrary style
+
+[title]SBEVNet: End-to-End Deep Stereo Layout Estimation
+stereo features
+IPM features
+layout estimation
+Accurate layout estimation
+bird’s eye view layout
+
+[title]SeeTek: Very Large-Scale Open-set Logo Recognition with Text-Aware Metric
+brand name text
+brand names
+brands
+Amazon Product Catalog
+logo recognition
+
+[title]SEGA: Semantic Guided Attention on Visual Prototype for Few-Shot Learning
+semantic knowledge
+few training samples
+few samples
+base classes
+new classes
+
+[title]Semantically Stealthy Adversarial Attacks against Segmentation Models
+targeted labels
+target objects
+Segmentation models
+segmentation models
+targeted and non-targeted adversarial attacks
+
+[title]Sharing Decoders: Network Fission for Multi-task Pixel Prediction
+additional tasks
+task
+conventional multi-task methods
+multi-task pixel-wise labeling use
+separate decoders
+
+[title]SIDE: Center-based Stereo 3D Detector with Structure-aware
+
+[title]SpectraNet: Learned Recognition of Artificial Satellites from High Contrast
+ground based observatories
+Effective space domain awareness
+space domain
+low earth orbits
+geostationary orbits
+
+[title]Video-Based Ski Jump Style Scoring from Pose Trajectory
+real judges
+automatic style scoring
+Ski jumping
+ski jumping
+the style score
+
+[title]StyleMC: Multi-Channel Based Fast Text-Guided Image Generation
+manipulation
+labeled data
+large amounts
+semantic attributes
+Contrastive Language-Image Pre-training
+
+[title]Tensor-Based Non-Rigid Structure from Motion
+affine projection matrices
+structure
+motion
+the basis shape coefficients
+analysis
+
+[title]The Untapped Potential of Off-the-Shelf Convolutional Neural Networks
+model performance
+current models
+models
+static models
+challenging recognition tasks
+
+[title]Towards a Robust Differentiable Architecture Search under Label Noise
+label noise
+noisy labels
+many algorithms
+NAS outperform
+class labels
+
+[title]Towards Durability Estimation of Bioprosthetic Heart Valves Via Motion
+valve leaflet motion
+BHV leaflets
+bioprosthetic heart valve
+Valve designs
+pulsatile flow tests
+
+[title]Transductive Weakly-Supervised Player Detection using Soccer Broadcast
+soccer broadcast videos
+Player detection
+player detection
+Broadcast match videos
+video
+
+[title]Transfer Learning for Pose Estimation of Illustrated Characters
+assistive content creation tasks
+Human pose information
+pose-guided illustration retrieval
+refer-
+ence pose retrieval and automatic character animation
+illustrations
+
+[title]Towards Camera Enabled Touch Typing on Flat Surfaces through
+natural typing speeds
+known users
+surface videos
+users
+touch typing
+
+[title]Unsupervised Learning for Human Sensing Using Radio Signals
+RF signals
+unlabelled RF signals
+such unlabeled RF data
+various tasks
+RF
+
+[title]Unsupervised Sounding Object Localization with
+visual scenes
+attention
+manual annotations
+sound
+and visual regions
+objects
+
+[title]Weakly Supervised Learning for Joint Image Denoising and Protein Localization
+input images
+EM images
+clean images
+image
+images
+
+[title]X-MIR: EXplainable Medical Image Retrieval
+image similarity
+medical images
+saliency maps
+interventional tools
+mapping
+
+[title]Small or Far Away? Exploiting Deep Super-Resolution and Altitude Data for
+ultra-high resolution cameras
+tiny animal depictions
+animal
+high confidence
+AED
+
+[title]Supervised Contrastive Learning for Generalizable and Explainable DeepFakes
+unknown attacks
+unseen attacks
+proposed fusion
+different architectures
+proposed SupCon
+model
+
+[title]Feature-Align Network with Knowledge Distillation for Efficient Denoising
+17.6× fewer parameters
+image restoration
+RAW image
+mobile devices
+MACs
+
+[title]Argus++: Robust Real-time Activity Detection
+brute force expansion
+views
+large field
+inputs
+real-world unconstrained video streams
+
+[title]Subjective Quality Assessment of User-Generated Content Gaming Videos
+gaming videos
+perceptual video quality assessment
+videos
+VQA research
+UGC
