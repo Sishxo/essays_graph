@@ -17,7 +17,6 @@ end
 generation quality
 real data lead
 image
-
 latent space
 
 [title]Morph Detection Enhanced by Structured Group Sparsity
@@ -409,8 +408,7 @@ a multi-view neural radiance field representation
 
 [title]No-Reference Image Quality Assessment via Transformers, Relative Ranking,
 various datasets
-NR-
-IQA models
+NR-IQA models
 the input image
 our quality assessment model
 IQA
@@ -704,3 +702,4549 @@ perceptual video quality assessment
 videos
 VQA research
 UGC
+
+[title]Patch Attack Invariance: How Sensitive are Patch Attacks to 3D Pose?
+patch attack 3D invariance
+patch attacks
+patch attack effectiveness
+patch success
+attack effectiveness
+
+[title]Feature Hourglass Network for Skeleton Detection
+object shapes
+Geometric shape understanding
+geomet-
+ric shape understanding
+deep learning
+skeleton detection
+
+[title]Domain-based semi-supervised learning: exploiting label invariance
+unlabeled data
+ploit label invariance
+data
+several practical supervised learning problems
+domain knowledge
+
+[title]Deep Learning-based Distortion Sensitivity Prediction for Full-Reference Image
+better visualization results
+images
+other methods
+restoration
+blur
+
+[title]Skin Segmentation using Active Contours and Gaussian Mixture Models for
+heart rate estimation
+iPPG comprises
+interest
+formulation
+Remote Physiological Signal Sensing
+
+[title]Collaborative Optimization and Aggregation for Decentralized Domain
+different domains
+multiple domains
+domains
+data privacy
+model training
+
+[title]Robust UAV-based Tracking Using Hybrid Classiﬁers
+heavy occlusion
+illumination variation
+online update
+motion blur
+Robust object tracking
+
+[title]Leveraging Style and Content features for Text Conditioned Image Retrieval
+retrieval
+style
+content
+users
+style and content spaces
+
+[title]Visualizing Computer Vision, and seeing its capacity to “see”
+vision
+Computer vision
+computer vision
+us
+cameras
+
+[title]Identity Enhanced Residual Image Denoising
+image denoising
+pre-activated input
+Identity Mapping Modules
+the ﬁrst layer
+the full re-
+ceptive ﬁeld
+
+[title]SketchAA: Abstract Representation for Abstract Sketches
+sketch abstraction
+human sketches
+sketches
+made sketch representation
+sketch analysis tasks
+
+[title]Fully Quantized Network for Object Detection
+quantized detectors
+quantized networks
+low bitwidth arithmetic
+Faster R-
+existing methods
+
+[title]Identifying Same Persons from Temporally Synchronized Videos Taken by
+Cross-video person
+cross-video person
+such multi-view information
+different cameras
+different videos
+
+[title]3D High-Fidelity Mask Face Presentation Attack Detection Challenge
+mask attack detection
+3D masks
+brieﬂy HiFiMask
+High-Fidelity Mask Face
+sensors
+
+[title]Learning Cross-modal Afﬁnity for Audio-visual Speech Separation
+shared information be-
+tween co-occurring audio
+videos
+audio and visual streams
+transmission delay mismatch
+
+[title]Deep Implicit Surface Point Prediction Networks
+implicit representations
+high ﬁdelity models
+high ﬁdelity
+point clouds
+Deep neural representations
+
+[title]On Compositions of Transformations in
+noise contrastive learning
+contrastive learning
+data sampling
+supervised pretraining
+effective video representations
+
+[title]Fashion-Guided Adversarial Attack on Person Segmentation
+classiﬁcation networks
+person segmentation networks
+image manipulations
+namely person segmentation networks
+human instance segmentation
+
+[title]Head Nod Detection from a Full 3D Model
+head nod
+Human Robotic Interactions
+face
+social behavior
+high value
+
+[title]Study on Fashion Image Retrieval Methods for Efﬁcient Fashion Visual Search
+Fashion image retrieval
+reﬁned product images
+fashion products
+lighting conditions
+uncontrolled circumstances
+
+[title]Learning to Regress Bodies from Images using
+clothed human scans
+regress 3D human body shape
+clothed people
+SMPL
+clothing
+
+[title]Generative Adversarial Style Transfer Networks for Face Aging
+images
+face aging
+son
+image style transfer
+face
+
+[title]OccuSeg: Occupancy-aware 3D Instance Segmentation
+3D instance segmentation
+3D occupancy size
+large demands
+the clustered occupancy size
+the predicted occupancy size
+
+[title]Achieving Robustness in the Wild via
+new input images
+different images
+Such perturbations
+small variations
+variations
+
+[title]Decoupling Video and Human Motion: Towards Practical Event Detection in
+event detection
+2D human pose sequences
+temporal de-
+human motion
+F1 score
+
+[title]Synthetic Temporal Anomaly Guided End-to-End Video Anomaly Detection
+pseudo anomalies
+anomaly examples
+normal data
+reconstruct-
+ing anomalies
+anomaly detec-
+tion
+
+[title]Hierarchical Particle Filtering for 3D Hand Tracking
+track loses
+existing methods
+observation noise
+terms
+90f ps
+
+[title]OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder
+sufﬁcient fake images
+non-real images
+little deepfakes data
+Deepfakes
+deepfakes
+
+[title]Photometric Transformer Networks and Label Adjustment
+breast density prediction
+breast density
+label distillation
+pixel intensity
+photometric trans-
+
+[title]End-to-End Unsupervised Document Image Blind Denoising
+several test datasets
+various levels
+scanned pages
+optical character recognition
+unsupervised deep learning model
+
+[title]Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing
+low resolution images
+single image dehazing
+low resolution outputs
+single image dehazing problem
+high resolution
+images
+
+[title]Facial Landmark Tracking by Tree-based Deformable Part Model
+possible failures
+smooth estimates
+static images
+facial landmarks
+the face detector
+
+[title]Object state recognition for automatic AR-based maintenance guidance
+step
+later stages
+such support systems
+problems
+new employees
+
+[title]GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning
+optical flow learning
+Existing optical flow methods
+motion fields
+the optical flow
+the ba-
+sic optical flow assumptions
+
+[title]Focus on the Positives: Self-Supervised Learning for Biodiversity Monitoring
+image collections
+unlabeled image collections
+image features
+training time results
+training time
+
+[title]DeepRED: Deep Image Prior Powered by RED
+inverse problems
+Lempitsky
+Inverse problems
+theory
+tools
+
+[title]Uniting Stereo and Depth-from-Defocus: A Thin Lens-based Variational
+a property
+the scene
+
+[title]Deep Image Compression with Latent Optimization and Piece-wise Quantization
+data compression
+deep image compression
+latent optimization
+raw data
+original images
+
+[title]WaveletStereo: Learning Wavelet Coefﬁcients of Disparity Map in
+smooth regions
+Scene Flow
+several sub-modules
+simul-
+textureless surfaces
+
+[title]Deep Spatio-Temporal Random Fields for Efﬁcient Video Segmentation
+video understanding
+deep Gaussian Conditional Random Fields
+Random Fields
+GCRFs
+Gaussian Conditional
+
+[title]Structured Images for RGB-D Action Recognition
+ﬁve benchmark datasets
+depth sequences
+depth maps
+image data
+bidirectional rank pooling
+
+[title]U2Eyes: a binocular dataset for eye tracking and gaze estimation
+labelled data
+3D labelled data
+binocular data
+single eye images
+real images
+
+[title]REIN: Flexible Mesh Generation from Point Clouds
+PSR
+Poisson Surface Reconstruction
+sparse point clouds
+Ball Pivoting Algorithm
+points
+
+[title]Adaptive Pooling in Multi-Instance Learning for Web Video Annotation
+Web videos
+many Web video applications
+termine tags
+Web
+video annotation
+Web
+
+[title]Symbolic AI for XAI: Evaluating LFIT Inductive Programming
+Machine learning methods
+machine learning methods
+other domains
+fair recruitment
+certain conditions
+
+[title]Interpretable Image Recognition by Constructing Transparent Embedding Space
+output category
+category
+transparent basis concepts
+predictions
+TesNet
+
+[title]A unified framework for non-negative matrix and tensor factorisations with a
+metric structure
+Non-negative matrix
+tensor factorisations
+several numerical illustrations
+datasets
+
+[title]Robust Multi-Object Tracking Using Re-Identiﬁcation Features and Graph
+tracking accuracy
+multi-object tracking
+tracking
+overall network performance
+various conditions
+
+[title]VSpSR: Explorable Super-Resolution via Variational Sparse Representation
+natural images
+neural networks
+inﬁnite sparse representations
+released scores
+SR space
+
+[title]Panoptic Segmentation Forecasting
+camera motion
+detected things
+background
+Panoptic segmentation forecasting
+available baselines
+
+[title]Scaling digital screen reading with one-shot learning and re-identiﬁcation
+
+[title]VLG-Net: Video-Language Graph Matching Network for Video Grounding
+video snippets
+language queries
+video
+videos
+model intra-modality relationships
+
+[title]Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories
+multi-modal pedestrian trajectory prediction
+faster convergence
+pedestrians
+others
+GAN
+
+[title]Fast Vehicle Turning-Movement Counting using Localization-based Tracking
+such data
+data
+
+recording turning movement data
+available
+challenge data
+lightweight algorithms
+
+[title]MedSkip: Medical Report Generation Using Skip Connections and Integrated
+IU X-Ray
+PEIR Gross
+IU X
+new state
+competitive results
+
+[title]Complete the Look: Scene-based Complementary Product Recommendation
+product images
+scene images
+such images
+shoppable products
+jeans
+
+[title]XAI Handbook: Towards a Unified Framework for Explainable AI
+other methods
+methods
+explanations
+shortcomings
+terms
+
+[title]Domain-Aware Universal Style Transfer
+domain
+Style transfer
+arbitrary styles
+Style Transfer Networks
+Existing universal style
+
+[title]An Analysis of How Driver Experience Affects Eye-Gaze Behavior
+3D space
+novice drivers
+Drivers
+more attention
+attention
+
+[title]Audi-Exchange: AI-Guided Hand-based Actions to Assist Human-Human
+objects
+spatial audio
+humans
+BVI
+human-human interaction needs
+
+[title]Synthesizing Iris Images using RaSGAN with Application in Presentation Attack
+real iris images
+high quality images
+PAD
+Standard Generative Adversarial Network
+generat-
+ing synthetic iris images
+
+[title]Active Learning for Deep Detection Neural Networks
+object bounding boxes
+The cost
+
+[title]Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image
+supervised training
+defocus blur
+many consumer cameras
+focus
+prior works
+
+[title]Evidential Deep Learning for Open Set Action Recognition
+multiple mainstream action recognition models
+human actions
+video actions
+actions
+training data
+
+[title]Textual Visual Semantic Dataset for Text Spotting
+text similarity
+text
+texts
+image location label
+semantic relations
+
+[title]Efﬁcient Separation between Projected Patterns
+projector
+projectors
+Multiple projectors
+multiple projectors
+pattern separation difﬁcult
+
+[title]Self-Supervised Object Detection via Generative Image Synthesis
+object detectors
+objects
+pre-deﬁned object
+images
+car detection
+
+[title]A Hybrid Approach Between Adversarial Generative Networks and Actor-Critic
+high resolution
+resolution
+Image compression
+image compression
+policy gradient methods
+
+[title]A Large and Diverse Dataset for Improved Vehicle Make and Model Recognition
+various vehicle
+VMMR
+numerous Intelligent Transportation Systems
+Vehicle Make
+vehicles
+
+[title]NH-HAZE: An Image Dehazing Benchmark with Non-Homogeneous Hazy and
+hazy scenes
+dataset
+Image dehazing
+a professional haze generator
+The non-homogeneous haze
+
+[title]EVSRNet：Efficient Video Super-Resolution with Neural Architecture Search
+scene modeling
+target object
+
+us successive material appearance manipulation
+glossiness
+a visual material appearance
+
+[title]Hierarchical Color Learning in Convolutional Neural Networks
+color categories
+object color
+color perception
+color
+colors
+
+[title]Online Multi-task Clustering for Human Motion Segmentation
+understanding tasks
+mong multiple tasks
+tasks
+Human motion segmentation
+motion sequences
+
+[title]CDS: Cross-Domain Self-supervised Pre-training
+diverse domain transfer tasks
+downstream domain transfer tasks
+domain adaptation
+domain
+domains
+
+[title]A Facial Features Detector Integrating Holistic Facial Information and
+different face parts
+holistic face information
+facial landmarks
+the ﬁnal face
+shape model
+the face parts
+
+[title]Photon-Starved Scene Inference using Single Photon Cameras
+image classification
+low photon flux
+extreme noise cases
+strong shot noise
+shot noise
+
+[title]IDEA-Net: Adaptive Dual Self-Attention Network for Single Image Denoising
+Image denoising
+Poisson dropout operations
+prediction variance
+possible data bias
+non-
+learning image denoisers
+
+[title]Segmentation and detection from organised 3D point clouds:
+time
+size estimation
+3D information
+Convolutional Neural
+unseen scenarios
+
+[title]A Comparison of Human and Automated Face Veriﬁcation Accuracy on
+deep networks
+unconstrained face imagery
+deep learning
+Automatic face recognition technologies
+imagery
+
+[title]Real-Time Non-Rigid Multi-Frame Depth Video Super-Resolution
+global lateral motions
+non–rigid displacements
+varying expressions
+rigid objects
+low resolution dynamic
+depth videos
+
+[title]Faster R-CNN Features for Instance Search
+CNN
+computer vision tasks
+Paris Buildings 6k
+TRECVid Instance Search
+Paris Buildings
+
+[title]Deformation Aware Image Compression
+
+[title]Controlled GAN-Based Creature Synthesis via a Challenging Game Art Dataset
+small datasets
+weak content control
+images
+artistic ideation
+noise result
+
+[title]Deep Layer Aggregation
+layers
+networks
+fewer parameters
+better fuse information
+resolution
+
+[title]SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent
+label placement
+naive label placement
+labels
+objects
+seed points
+
+[title]Distance-based Hyperspherical Classification for
+deployment time
+contrastive learning
+novel classes
+domain invariance
+new environmental conditions
+
+[title]On indirect assessment of heart rate in video
+good HR
+factors
+
+[title]A Closer Look at Self-training for Zero-Label Semantic Segmentation
+semantic segmentation
+generative models
+labels
+pseudo
+unseen classes
+
+[title]Context-aware Biafﬁne Localizing Network for Temporal Sentence Grounding
+the problem
+This paper
+
+[title]Fusion Moves for Graph Matching
+graph matching datasets
+graph matching
+graph match-
+fusion moves
+multilabel discrete Markov random fields
+
+[title]Deep Learning of Mouth Shapes for Sign Language
+3D space
+kernel methods
+facial expressions
+kernels de-
+support vector classiﬁcation
+
+[title]Adversarial Defense based on Structure-to-Signal Autoencoders
+a representational bottleneck
+tested adversarial attack methods
+input gradients
+Adversarial attacks
+neural networks
+
+[title]Single-DARTS: Towards Stable Architecture Search
+Differentiable architecture search
+Neural Architecture Search
+skip connections
+frequent performance collapse
+simplicity
+
+[title]Large-scale DTM Generation from Satellite Data
+DTM
+DSM
+parameter tuning
+local relief attributes
+satellite data
+
+[title]Real-time hand grasp recognition using weakly supervised two-stage
+human hand usage
+hand regions
+hand joints
+humans
+human manipulation
+
+[title]Optimal Linear Attitude Estimator for Alignment of Point Clouds
+point clouds
+OLAE
+closed form solution
+inversion
+interest
+
+[title]Investigating transformers in the
+visual set prediction tasks
+aerial vehicles
+complex polygons
+predictions
+parallel
+
+[title]Private-kNN: Practical Differential Privacy for Computer Vision
+training datasets
+good privacy bounds
+differential privacy
+privacy guarantees
+privacy
+
+[title]LIDIA: Lightweight Learned Image Denoising with Instance Adaptation
+several decades
+Image denoising
+local over-
+lapping patches
+images
+an unsupervised fashion
+
+[title]Deep Domain Adaptation by Geodesic Distance Minimization
+target domains
+unsupervised visual domain adaptation
+Deep CORAL
+Deep LogCORAL
+Deep
+
+[title]Discrete neural representations for explainable anomaly detection
+anomalous events
+-MAN dataset
+action classi-
+object
+future frames
+
+[title]Segmentation of Overlapping Cervical Cells in Microscopic Images with
+cervical cells
+multiple overlapping cervical cells
+cell cytoplasm
+graph cuts
+cells
+
+[title]Unsupervised Person Re-Identiﬁcation with Iterative Self-Supervised Domain
+labeled source dataset
+target dataset
+dataset
+pseudo labels
+cross-dataset person
+
+[title]CGC-Net: Cell Graph Convolutional Network for Grading of Colorectal Cancer
+gland formation
+nodes
+Adaptive GraphSage
+cellular interactions
+each large histology image
+
+[title]SegGCN: Efﬁcient 3D Point Cloud Segmentation with Fuzzy Spherical Kernel
+discrete convolutional kernels
+point density
+discrete bins
+Fuzzy clustering
+boundary effects
+
+[title]Entangled Transformer for Image Captioning
+attention layers
+feed-
+forward layers
+elaborate attention mechanisms
+semantic attributes
+Recurrent Neural Network
+
+[title]Exploit Visual Dependency Relations for Semantic Segmentation
+different object categories
+semantic segmentation
+Dependency relations
+contextual reasoning
+visual entities
+
+[title]Hypercorrelation Squeeze for Few-Shot Segmentation
+precise segmentation masks
+diverse levels
+4D correlation tensors
+multi-level feature correlation
+visual cues
+
+[title]Joint motion and residual information latent representation for P-frame coding
+they
+
+[title]DeepMultiCap: Performance Capture of Multiple Characters
+multi-view images
+pre-scanned template
+parametric model
+varying surface
+sparse multi-view cam-
+eras
+
+[title]Painting Many Pasts: Synthesizing Time Lapse Videos of Paintings
+a given painting
+colors
+possibilities
+unique combinations
+strokes
+
+[title]Depth and motion cues with phosphene patterns for prosthetic vision
+patterns
+obstacle avoidance
+scene direction
+us-
+ing particular phosphene patterns
+visual perception
+
+[title]Features for Multi-Target Multi-Camera Tracking and Re-Identiﬁcation
+Re-ID
+good Re-ID
+several cameras
+Multi-Target Multi-Camera Tracking
+people
+
+[title]Exploiting Feature Hierarchies with Convolutional Neural Networks
+strong image representation
+scene understanding
+Cultural events
+scene context
+cultural event recognition
+
+[title]MRGAN: Multi-Rooted 3D Shape Representation Learning
+parts
+semantic parts
+segmented shapes
+shape modeling
+3D shape classes
+
+[title]s-SBIR: Style Augmented Sketch based Image Retrieval
+SBIR
+unrestricted hand-drawn sketch query
+end
+Sketch-based image retrieval
+appropriate importance
+
+[title]GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network
+dynamic object
+publication
+3D sparse convolution
+Panoptic segmentation
+available datasets
+
+[title]Patch-based reconstruction of a textureless deformable 3D surface
+unseen objects
+overlapping patches
+neighboring patches
+depth maps
+shape variation
+
+[title]Optical Adversarial Attack
+Attacks
+OPtical ADversarial attack
+image classifiers
+background
+an adversarial attack
+
+[title]Cluster-Wise Ratio Tests for Fast Camera Localization
+camera pose
+candidate camera pose clusters
+camera localization
+reliable image feature points
+Feature point matching
+
+[title]Incorporating Touch Biometrics to
+similar mobile scenarios
+graphical passwords
+OTP
+other traditional biometric veriﬁcation traits
+handwritten
+digits
+
+[title]Local Binary Pattern Networks
+inference speed
+sensor nodes
+non-trivial tasks
+efﬁciency
+available memory
+
+[title]End-to-End Semi-Supervised Object Detection with Soft Teacher
+reliable pseudo boxes
+1%
+10%
+5%
++1.5 mAP
+
+[title]Stacked Hourglass Network for Robust Facial Landmark Localisation
+robust facial landmark localisation
+comparison
+two popular cascade shape regression
+face alignment
+much attention
+
+[title]Recursive Deep Residual Learning for Single Image Dehazing
+image dehazing
+image denoising
+input hazy images
+transmission map estimation
+dehazed ones
+
+[title]PaletteNet: Image Recolorization with Given Color Palette
+adversarial loss
+Euclidean loss
+Image recolorization
+artistic purposes
+the proposed multi-task loss
+
+[title]Accuracy and Long-Term Tracking via Overlap Maximization Integrated with
+RL
+ATOMFR
+accurate target state estimation
+InF
+useless features
+
+[title]Exploring Spatial Context for 3D Semantic Segmentation of Point Clouds
+semantic segmentation
+blocks
+Direct semantic segmentation
+lem
+segmentation
+
+[title]Investigating Spiking Neural Networks for Energy-Efﬁcient On-Board AI
+spiking neural networks
+neural networks
+land use classiﬁcation problems
+their potential energy efﬁciency
+the energy efﬁciency
+
+[title]Finding Facial Forgery Artifacts with Parts-Based Detectors
+valuable insights
+Detection Challenge
+
+fake Detection Challenge datasets
+detailed empirical analysis
+deep neural
+
+[title]Deep Manifold Prior
+convolutional networks
+deep neural networks
+manifold reconstruction applications
+3D shapes
+competitive baselines
+
+[title]ProAI: An Efficient Embedded AI Hardware for Automotive Applications
+power intensive multitask DNN architecture
+AD
+necessary functional safety requirements
+power
+Safety Integrity Level
+
+[title]Instagram Filter Removal on Fashionable Images
+additional style information
+Social media images
+social media images
+social media analysis applications
+a reverse style transfer problem
+
+[title]A Generative Model For Zero Shot Learning
+training
+images
+the training classes
+other information
+some novel classes
+
+[title]Differentiable Convolution Search for Point Cloud Processing
+point cloud processing
+geometric shape modeling
+geometric shapes
+challenging benchmarks
+diverse shapes
+
+[title]Leaf Area Estimation by Semantic Segmentation of Point Cloud of Tomato Plants
+tomato plants
+Leaf points
+Stem points
+annotation
+working time
+
+[title]Explaining Autonomous Driving by Learning End-to-End Visual Attention
+certain controlled scenarios
+other learning problems
+Current deep learning
+such decisions
+impressive results
+
+[title]Active Planning, Sensing and Recognition
+limited resource budgets
+previous POMDP formulations
+multi-view, multi-modal vehicle classiﬁcation
+
+multi-view face recognition
+POMDP
+
+[title]Visual Rhythm and Beat
+video
+musical rhythm
+visual rhythm
+musical beats
+visual beats
+
+[title]RethNet: Object-by-Object Learning for Detecting Facial Skin Problems
+object classes
+object detection
+object
+semantic segmentation methods
+Semantic segmentation
+
+[title]IsMo-GAN: Adversarial Learning for Monocular Non-Rigid 3D Reconstruction
+real images
+evince fewer artefacts
+direct 3D reconstruction
+multiple approaches
+multiple frames
+
+[title]Unsupervised Human Action Detection by Action Matching
+action matching
+unsupervised action detection
+video segments
+new action categories
+such video segments
+
+[title]DAD: Data-free Adversarial Defense at Test Time
+training data
+adversarial training
+adversarial samples
+model prediction
+detected adversarial samples
+
+[title]Supervised Contrastive Learning for Generalizable and Explainable DeepFakes
+unknown attacks
+unseen attacks
+proposed fusion
+different architectures
+proposed SupCon
+model
+
+[title]Iterative Residual CNNs for Burst Photography Applications
+higher quality
+poor quality
+frames
+low-
+quality image frames
+
+higher image quality
+
+[title]Learning by Watching
+expert driver actions
+surrounding vehicles
+available driving data
+data
+to-
+tal driving data
+
+[title]PFCNN: Convolutional Neural Networks on 3D Surfaces Using Parallel Frames
+local surface patches
+Surface meshes
+surface meshes
+Surface
+surface
+
+[title]Contextually Plausible and Diverse 3D Human Motion Prediction
+observed 3D poses
+multiple plausible future 3D
+diverse 3D human motion
+relevant information
+diversity
+
+[title]ForeSI: Success-Aware Visual Navigation Agent
+inverse Path Length
+ment Learning
+RL
+Path Length
+ForeSI
+
+[title]A Hyperbolic-to-Hyperbolic Graph Convolutional Network
+Hyperbolic graph convolutional networks
+Hyperbolic
+
+[title]Assessing Image Quality Issues for Real-World Problems
+image quality issues
+unrecognizable content
+sufﬁcient quality
+insufﬁcient quality
+insufﬁcient qual-
+
+[title]Improving Tuberculosis (TB) Prediction using Synthetically Generated
+infectious disease processes
+other organ systems
+ray
+rays
+TB properties
+
+[title]Two-parameter Persistence for Images via Distance Transform
+digital image analysis
+grayscale images
+porous media
+Topological Data Analysis
+threshold decomposition
+
+[title]STNet: Selective Tuning of Convolutional Networks for
+STNet
+Convolutional Networks
+covert visual attention
+Visual attention modeling
+feedback processing
+
+[title]Real-Time Video Super-Resolution on Smartphones with Deep Learning,
+video communication
+Adreno GPU
+HD resolution
+streaming services
+limited hardware resources
+
+[title]Geometry and Learning Co-supported Normal Estimation for Unstructured
+unstructured point cloud
+crucial task
+
+[title]Deep Halftoning with Reversible Binary Pattern
+color images
+ﬁne details
+colors
+information
+binary halftone
+
+[title]Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal
+spatial temporal graph
+feature fusion
+dense connection
+spa-
+tial temporal graph convolutional network
+features
+
+[title]iNAS: Integral NAS for Device-Aware Salient Object Detection
+model design
+Nvidia Titan Xp
+Models
+multiple devices
+Intel Core CPU
+
+[title]Intelligent Radiomic Analysis of Q-SPECT/CT images to optimize pulmonary
+tomogra-
+PE
+pulmonary embolism
+CTPA
+CT pulmonary
+
+[title]Multi-stage Aggregated Transformer Network for Temporal Language
+accurate localization
+previous methods
+video
+different moment
+representations
+
+[title]Towards Active Vision for Action Localization with Reactive Control and
+active action
+action localization
+supervised learning settings
+reinforcement learning
+training data
+
+[title]Towards Semantic Understanding of Surrounding Vehicular Maneuvers:
+events
+data reduction
+U.S. highways
+naturalistic driving studies
+multiple low-cost visual sensors
+
+[title]Convolutional Neural Networks for Iris Presentation Attack Detection: Toward
+iris regions
+patches
+patch-wise presentation attack information
+plastic eyes
+data augmentation
+
+[title]One-Shot Image Recognition Using Prototypical Encoders
+FSL problems
+hubness problem
+FSL models
+image
+prototypical images
+
+[title]Visual SLAM for Asteroid Relative Navigation
+navigation comparison data
+oid Vesta
+precise autonomous navigation
+terms
+NASA
+
+[title]Co-Segmentation Aided Two-Stream Architecture for Video Captioning
+salient regions
+information
+competitive performance
+object-level information
+adjacent frames
+
+[title]Causal Hidden Markov Model for Time Series Disease Forecasting
+medical data
+irreversible disease
+disease label
+distribution
+medical treatment
+
+[title]Geometry Based Faceting of 3D Digitized Archaeological Fragments
+distinct facets
+digital cul-
+tural heritage fragments
+few tun-
+able yet archaeologically meaningful parameters
+a robust pipeline
+We
+
+[title]Deep End-to-End Time-of-Flight Imaging
+scene depth
+erroneous depth estimates
+challenging scenes
+scenes
+ToF images
+
+[title]Autonomous Neurosurgical Instrument Segmentation Using End-to-End
+surgical instruments
+surgical tools
+binary segmentation
+surgical workﬂow analysis
+surgical robotics
+
+[title]Multi-Input Fusion for Practical Pedestrian Intention Prediction
+pedestrian intention
+public roads
+Pedestrians
+fatal accidents
+autonomous vehicles
+
+[title]3D Object Detection from a Single Fisheye Image
+ﬁsheye images
+real ﬁsheye images
+such images
+rectilinear images
+ﬁsheye cameras
+
+[title]Animating Pictures with Eulerian Motion Fields
+Eulerian motion
+natural motion
+continuous ﬂuid motion
+deep features
+ﬂowing rivers
+
+[title]Driving Scene-Retrieval by Example from Large-Scale Data
+large datasets
+high task performance
+tasks
+similar scenes
+scene
+
+[title]Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation
+hand pose estimation
+contemporary approaches
+the model capacity
+widely used benchmarks
+partial layers
+
+[title]YOLSE: Egocentric Fingertip Detection from Single RGB Images
+egocentric vision
+
+[title]EventCap: Monocular 3D Capture of High-Speed Human Motions
+high frequency
+fast motions
+cap-
+turing fast human motions
+high
+frame rate videos
+signiﬁcantly higher data efﬁciency
+
+[title]A Novel Adversarial Inference Framework for Video Prediction
+video prediction
+video se-
+video sequences
+fake videos
+blur predictions
+
+[title]Probabilistic Model Distillation for Semantic Correspondence
+unlabeled real image pairs
+pseudo labels
+images
+such strategy
+synthetic data
+
+[title]Real-time Age-Invariant Face Recognition in Videos
+face recognition
+ages
+deep features
+age-invariant face recognition
+Face recognition
+
+[title]Adaptive Feature Aggregation for Video Object Detection
+videos
+Several demonstration videos
+Object detection
+better performance
+person detection
+
+[title]Robust matrix regression for illumination and occlusion tolerant face recognition
+illumination
+Robust Matrix Regression
+full use
+RMR
+the minimal weighted nuclear norm constraint
+
+[title]Learning Spatio-Appearance Memory Network for High-Performance Visual
+spatial map
+memory samples
+discriminative correlation filter
+
+spatial memory bank
+segmentation mask
+
+[title]End-to-End Driving in a Realistic Racing Game
+change regions
+single change
+change
+changes
+Existing change captioning studies
+
+[title]FastSME: faster and smoother manifold extraction from 3D stack
+3D image stacks
+image size
+data
+3D volumes
+2D
+
+[title]Constraint-Aware Importance Estimation for
+ﬁlter importance
+loss
+convolutional neural network
+the same multiple resource constraints
+CAIE
+
+[title]Optimizing Rank-based Metrics with Blackbox Differentiation
+standard image retrieval
+mini-batch gradient descent
+computer vision models
+image retrieval
+performance evaluation
+
+[title]Class-Incremental Experience Replay for
+concept drift
+outdated information
+drift
+ters
+new information
+
+[title]SIDOD: A Synthetic Image Dataset for
+object detection
+Object
+objects
+ﬂying distractors
+distractors
+
+[title]Improving Low-Precision Network Quantization via Bin Regularization
+bit precision
+deep neural networks
+different low-precision networks
+Model quantization
+low-precision networks
+
+[title]Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry
+tion
+24
+
+[title]Clothing Status Awareness for Long-Term Person Re-Identification
+clothing change
+change clothing
+clothing
+significant clothing
+change
+cases
+
+[title]DAVID: Dual-Attentional Video Deblurring
+sharp frames
+multiple sharp frame
+different temporal windows
+frames
+several internal attention modules
+
+[title]Improving Point Cloud Semantic Segmentation by Learning 3D Object Detection
+class detection
+underrepresented classes
+3D orientation estimation capabilities
+avoidance
+path planning
+
+[title]Top-Down Networks: A coarse-to-ﬁne reimagination of CNNs
+down networks
+high frequency noise
+multiple visual tasks
+initial visual detection
+relevant stimuli
+
+[title]Image Deconvolution with Deep Image and Kernel Priors
+Image deconvolution
+image
+neural net structures
+neural nets
+an image deconvolution model
+
+[title]Online Continual Learning For Visual Food Classification
+Food image classification
+food image classification
+new classes
+data stream
+knowledge replay
+
+[title]Clothing Recognition in the Wild using the Amazon Catalog
+training data
+catalog data
+training
+such image
+movie collections
+
+[title]DyadGAN: Generating Facial Expressions in Dyadic Interactions
+dyadic interactions
+synthetic face images
+facial attributes
+valid emotional reactions
+interviewer-
+interviewee dyadic interactions
+
+[title]SER-FIQ: Unsupervised Estimation of Face Image Quality Based on
+image quality
+quality
+inaccurate quality labels
+high-
+performance face recognition systems
+an arbitrary face recognition model
+
+[title]Scalable Uncertainty for Computer Vision with Functional Variational Inference
+semantic segmentation
+depth estimation
+aleatoric uncertainty quantiﬁcation
+predictive uncertainty
+variational family
+
+[title]Fusion Point Pruning for Optimized 2D Object Detection
+fusion point pruning
+additional uncertainty information
+advanced driver assistant systems
+2D object detection
+night scenes
+
+[title]Interpreting Fine-Grained Dermatological Classiﬁcation by Deep Learning
+common East Asian dermatological con-
+accuracy benchmarks
+East Asian
+current models
+object
+
+[title]Improving De-raining Generalization via Neural Reorganization
+person identification
+image classification
+
+[title]Cross-modal Relational Reasoning Network for Visual Question Answering
+more attention
+relation consistency
+relational reasoning
+GQA benchmark
+VQA systems
+
+[title]Factorizing and Reconstituting Large-kernel MBConv for Lightweight Face
+MBConv
+mobile devices
+large-kernel MBConv
+less computational cost
+nonlinearity
+
+[title]The GrassClover Image Dataset for Semantic and Hierarchical Species
+supervised training
+unsupervised training
+biomass dataset col-
+mm−1
+Synthetic
+training images
+
+[title]BossNAS: Exploring Hybrid CNN-transformers with Block-wisely
+diversified search spaces
+HyTra search space
+NAS methods
+hybrid architectures
+previous methods
+
+[title]Geometry-aware Deep Network for Single-Image Novel View Synthesis
+such scenes
+simple 3D models
+rich geometric structure
+appearance
+novel view synthesis
+
+[title]Geometric inpainting of 3D structures
+large holes
+damaged heritage sites
+holes
+sizes
+a sin-
+gle self-similar structure and online depth databases
+
+[title]Structured Aleatoric Uncertainty in Human Pose Estimation
+3D human pose estimation
+3D human pose
+human pose
+uncertain joints
+pose estimation
+
+[title]A Graph Based Unsupervised Feature Aggregation for Face Recognition
+different environment conditions
+pairs
+IQiYi Video
+features
+video clips
+
+[title]Heterogeneous Grid Convolution for
+existing architectures
+road extraction
+semantic segmentation
+controllable computations
+tasks
+
+[title]GAN Compression: Efﬁcient Architectures for Interactive Conditional GANs
+model architectures
+neural architecture search
+generator architectures
+controllable image synthesis
+weight sharing
+
+[title]Are You Paying Attention? Classifying Attention in Pivotal Response Treatment
+PRT videos
+PRT sessions
+more individuals
+PRT
+individuals
+
+[title]Mining Better Samples for Contrastive Learning of Temporal Correspondence
+negative samples
+several video label
+training
+current representation power
+contrastive learning
+
+[title]Learning Intuitive Physics by Explaining Surprise
+simple dynamic models
+dynamic multi-object visual scenes
+detectable explanations
+
+dle detailed non-linear object interactions
+occlusion
+
+[title]Cross-View Cross-Scene Multi-View Crowd Counting
+Synthetic training dataset
+
+[title]DecentLaM: Decentralized Momentum SGD for Large-batch Deep Training
+more communication
+global average
+SGD
+Decentralized momentum
+efficient
+distributed training algorithms
+
+[title]Vehicle Type Classiﬁcation Using Bagging and Convolutional Neural Network
+multi-view point image
+post-processing compensate
+multi-view surveillance
+camera
+
+multi-view point
+, data augmentation help
+
+[title]Detecting AI-Synthesized Speech Using Bispectral Analysis
+synthesized speech
+human speech
+speech
+content
+synthesized
+voice
+
+[title]MULTILAYER ENCODER-DECODER NETWORK FOR 3D NUCLEAR SEGMENTATION IN
+long range correlations
+computer vision tasks
+Convolutional Neural Networks
+image
+CNNs
+
+[title]Learning View-Disentangled Human Pose Representation by Contrastive
+2D human poses
+cross-view action recognition
+mutual information
+different viewpoints
+us-
+ing cross-view mutual information maximization
+
+[title]Unmanned Aerial Vehicle Visual Detection and Tracking using Deep Neural
+UAV detection
+visual tracking systems
+tracking
+visible images
+UAV incursions
+
+[title]Improving Model Generalization by Agreement of Learned Representations
+Data augmentation
+data augmentation
+other data augmentation methods
+AgMax pre-trained models
+model generalization
+
+[title]Recurrent Segmentation for Variable Computational Budgets
+generating images
+image
+corresponding images
+several image-to-
+image translation frameworks
+
+ating new images
+
+[title]Multi-View Motion Synthesis via Applying Rotated Dual-Pixel Blur Kernels
+images
+Facebook 3D image
+bokeh effect
+other similar
+image motions
+a new image motion attribute
+
+[title]Fake it till you make it: face analysis in the wild using synthetic data alone
+synthetic data
+synthesize data
+data mixing
+data
+face
+
+[title]DAM: Discrepancy Alignment Metric for Face Recognition
+similarity pairs
+deep learning
+sn − sp
+existing metrics
+veriﬁcation
+
+[title]NTIRE 2021 Challenge for Defocus Deblurring Using Dual-pixel Images:
+DP images
+captured image
+images
+DP views
+ﬁeld
+
+[title]Performance Comparison of Convolutional AutoEncoders, Generative
+image compression
+many computer vision tasks
+large compression ratio
+compact features
+BPG
+
+[title]Learning to Detect Fine-Grained Change under Variant Imaging Conditions
+varied imaging conditions
+culture heritage
+variant imaging
+conditions
+camera differ-
+
+[title]Defect-GAN: High-Fidelity Defect Synthesis for Automated Defect Inspection
+defect samples
+various defects
+defects
+automated defect
+Automated defect inspection
+
+[title]Boosting Local Matches with Convolutional Co-Segmentation
+images
+large domains
+Co-Segmentation
+local analysis
+corresponding local patches
+
+[title]Learning Oracle Attention for High-ﬁdelity Face Completion
+facial components
+facial textures
+sufﬁcient attention
+inaccurate attention scores
+structure
+
+[title]Exploiting Global Priors for RGB-D Saliency Detection
+saliency
+global priors
+computation
+high conﬁdent
+simple
+
+[title]Multiview Vehicle Tracking by Graph Matching Model
+matching problem
+non-overlapping views
+view change
+vehicle models
+deep ReID features
+
+[title]CAMERAS: Enhanced Resolution And Sanity preserving Class Activation
+low resolution activation maps
+compromised image saliency
+Backpropagation image saliency
+accurate image saliency
+input features
+
+[title]A Monocular Pose Estimation Case Study:
+visual data acquisition methods
+noisy images
+complex data
+estimation pipeline
+mote operation
+
+[title]HM-NAS: Efﬁcient Neural Architecture Search via Hierarchical Masking
+based NAS approaches
+HM-NAS
+NAS
+Existing weight sharing
+existing weight sharing
+
+[title]QR-code Reconstruction from Event Data via Optimization in Code Subspace
+QR codes
+an image reconstruction method
+industrial high-speed cameras
+
+other reconstruction methods
+the target images
+
+[title]Soccer Jersey Number Recognition Using Convolutional Neural Networks
+number vector
+jersey numbers
+vector machine
+second
+soccer videos
+
+[title]Intentonomy: a Dataset and Study towards Human Intent Understanding
+visual information
+human motive understanding
+textual information
+social media images
+human intent
+
+[title]Argus++: Robust Real-time Activity Detection
+brute force expansion
+views
+large field
+inputs
+real-world unconstrained video streams
+
+[title]Four Dimensional Image Registration For Intravital Microscopy
+different time intervals
+sample tissues
+time
+Intravital microscopy images
+motion artifacts
+
+[title]Encoder-Decoder Residual Network for Real Super-resolution
+Real single image super
+resolution
+unknown degradations
+deep learning
+
+[title]Automatic Curation of Golf Highlights using Multimodal Excitement Features
+golf highlight reels
+sports highlight packages
+different modalities
+highlights
+live video streams
+
+[title]Visual Object Tracking by Using Ranking Loss
+robust object tracking
+tracking datasets
+less accuracy
+the target object
+the target
+object position
+
+[title]ScatSimCLR: self-supervised contrastive learning with pretext task
+ScatNet based models
+reduced number
+classification task
+baseline model
+multiple views
+
+[title]EENA: Efﬁcient Evolution of Neural Architecture
+efﬁcient architecture search
+search space
+Neural Architecture
+minimal computational resources
+computational expensive
+
+[title]GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
+global context
+different query positions
+major benchmarks
+NLNet
+ag-
+gregating query-speciﬁc global context
+
+[title]Real-time Mobile Facial Expression Recognition System – A Case Study
+neutral expression
+emotion recognition
+dynamic features
+professional actors
+mouth status
+
+[title]Action Recognition from RGB-D Data: Comparison and fusion of
+low computational complexity
+action recognition
+multimodal fusion
+scene
+deep learning
+
+[title]Reliably fast adversarial training via latent adversarial perturbation
+multi-step adversarial training
+standard training
+latent perturbation
+latent representation
+input gradients computation
+
+[title]Model Adaptation: Unsupervised Domain Adaptation without Source Data
+source data
+data privacy issues
+data
+source
+unsupervised model
+
+[title]Monocular 3D Localization of Vehicles in Road Scenes
+3D TNT
+localization
+3D-based object detection
+fitness evaluation score
+TrackletNet Tracker
+
+[title]Impact of Colour on Robustness of Deep Neural Networks
+image classification
+image classification task
+images
+image contrast
+digital images
+
+[title]GeoNet: Geometric Neural Network
+surface normal estimation
+normal maps
+depth
+surface
+the depth map
+
+[title]Tiny-Inception-ResNet-v2: Using Deep Learning for Eliminating Bonded Labors
+brick kilns
+barren lands
+dense trees
+sparse trees
+South Asia
+
+[title]Dual Super-Resolution Learning for Semantic Segmentation
+similar FLOPs
+≥2% higher mIoU
+Single Image Super-Resolution
+large computation budgets
+Super-Resolution
+
+[title]Cooking With Blocks : A Recipe for Visual Reasoning on Image-Pairs
+Image
+images
+real world scenes
+inductive generalization
+intelligence
+
+[title]Improving the affordability of robustness training for DNNs
+robust deep neural network models
+various strengths
+adversarial attacks
+comparable or better model test accuracy
+accuracy
+
+[title]Multi-Scale Selective Residual Learning for Non-Homogeneous Dehazing
+non-homogeneous dehazing
+hazy images
+non-homogeneous dense haze
+resulting images
+hazy medium cause
+
+[title]Localize, Group, and Select: Boosting Text-VQA by Scene Text Modeling
+scene text
+text information
+OCR
+different modalities
+scene-text relationship
+
+[title]GANs Spatial Control via Inference-Time Adaptive Normalization
+GAN
+ation effects
+the GAN’s
+high visual quality
+the image
+
+[title]Do Better ImageNet Models Transfer Better?
+ImageNet accuracy
+ImageNet architectures
+transfer accuracy
+ImageNet
+ﬁxed feature
+
+[title]A Point Light Source Interference Removal Method for Image Dehazing
+prior dehazing method
+point light sources
+better dehazing results
+dehazing algorithms
+Single image haze removal
+
+[title]Cross-Patch Graph Convolutional Network for Image Denoising
+realistic sRGB noisy images
+methods
+practical sRGB
+noisy image denoising
+denoiser training
+Cross-Patch Net
+
+[title]A Semi-Supervised Maximum Margin Metric Learning Approach for Small
+class samples
+unlabelled data
+class variance
+classes
+better cross-view discrimination
+
+[title]Learning An Explicit Weighting Scheme for Adapting Complex HSI Noise
+HSI noises
+different noise types
+different HSI
+complex noise knowledge
+noisy HSIs
+
+[title]CenterPoly: real-time instance segmentation using bounding polygons
+bounding polygons
+available weak annotations
+automated vehicles
+polygon ground-truth
+segmentation
+
+[title]Deep Census: AUV-Based Scallop Population Monitoring
+ﬁsheries areas
+AUV control
+population health
+AUV
+wild scallops
+
+[title]Equine Pain Behavior Classification via Self-Supervised Disentangled Pose
+horse pain
+pain classification accuracy
+pain classification
+equine pain classification
+pain
+
+[title]Depth distillation: unsupervised metric depth estimation for UAVs by ﬁnding
+precise metric depth
+odometry
+embedded devices
+expansion areas
+RGB
+
+[title]Progressive Knowledge-Embedded Uniﬁed Perceptual Parsing for
+
+[title]CaT: Weakly Supervised Object Detection with Category Transfer
+common category information
+correlated categories
+discriminative category
+low mAP
+weakly supervised object detection
+
+[title]Recurrent Convolutional Strategies
+domain speciﬁc
+video streams
+image streams
+domains
+extensive experimentation
+
+[title]Adaptive Weighting Multi-Field-of-View CNN
+multiple cancer subtype regions
+images
+Automated digital histopathology image segmentation
+different magniﬁcations
+the input image
+
+[title]Exploring the Limits of Zero-Shot Learning - How Low Can You Go?
+unseen object categories
+seen categories
+training data
+uniﬁed data splits
+very few seen categories
+
+[title]Composable Augmentation Encoding for Video Representation Learning
+contrastive learning
+data views
+composable augmentation encodings
+poor performance
+contrastive methods
+
+[title]Adaptive Weighted Attention Network with Camera Spectral Sensitivity Prior
+SR
+intermediate features
+channels
+spectral reconstruction
+multiple dual residual attention
+blocks
+
+[title]Estimating Heart Rate from Unlabelled Video
+ground truth data
+test set videos
+supervised learning
+ground truth blood pressure and heart rate signals
+facial video
+
+[title]In Perfect Shape: Certiﬁably Optimal
+3D shape reconstruction
+previous convex relaxation techniques
+Shape#
+outlier measurements
+SOS
+
+[title]Structuring Autoencoders
+data
+semantic structure
+this low dimensional space
+a structured latent space
+the raw data
+
+[title]Fold Electrocardiogram Into a Fingerprint
+ECG data
+ECG heartbeats
+ECG
+anomaly ECG heartbeats
+short ECG sequence
+
+[title]Clustering Positive Deﬁnite Matrices by Learning Information Divergences
+SPD matrices
+measures
+non-linear geometries
+SPD
+a suitable non-linear measure
+
+[title]Adaptive Labeling for Deep Learning to Hash
+label representations
+binary hash
+deep neural networks
+Hash function learning
+storage
+
+[title]Exploring Cross-Image Pixel Contrast for Semantic Segmentation
+different images
+different classes
+semantic segmentation
+Current semantic segmentation methods
+labeled pixels
+
+[title]Cross-modal Variational Alignment of Latent Spaces
+different modalities
+VAE
+second
+varia-
+tional alignment method
+food image analysis
+and 3D hand pose estimation
+
+[title]EDeN: Ensemble of Deep Networks for Vehicle Classification
+occlusions
+networks
+Cohen kappa
+mean recall
+mean precision
+
+[title]Joint denoising and decompression using CNN regularization
+standard denoising algorithms
+CNN
+noisy wavelet coefﬁcients
+quantization
+Wavelet compression schemes
+
+[title]Improving Person Re-Identiﬁcation with Temporal Constraints
+-ranking post-processing step
+timestamp information
+person
+Rank1 accuracy
+ﬁve non-overlapping
+camera views
+
+[title]Interpreting Attributions and Interactions of Adversarial Attacks
+adversarial perturbations
+adversarial attacks
+perturbation components
+adversarial perturbation pixels
+trained DNNs
+
+[title]Deep Aggregation Net for Land Cover Classiﬁcation
+DeepGlobe Satellite Chal-
+Land cover classiﬁcation
+DeepGlobe Satellite
+multi-layer features
+soft semantic labels
+
+[title]Excavating the Potential Capacity of Self-Supervised Monocular Depth
+monocular depth estimation
+depth estimation task
+depth
+more cues
+additional constraints
+
+[title]Cross-Domain Latent Modulation for Variational Transfer Learning
+target domains
+improved transfer learning
+inter-class alignment
+deep representations
+competitive performance
+
+[title]DIFFER: Moving Beyond 3D Reconstruction with
+DIFFER model
+2D images
+existing 3D
+supervised models
+the core computer vision problems
+semantic part segments
+
+[title]Detecting and Segmenting Adversarial Graphics Patterns from Images
+artificial graphics patterns
+Adversarial attacks
+adversarial attack
+
+artificial graphics patterns
+such attacks
+
+[title]Confidence Calibration for Domain Generalization under Covariate Shift
+domain adaptation
+unsupervised domain adaptation
+Existing calibration algorithms
+calibration
+multiple calibration do-
+
+[title]Generic Attention-model Explainability for Interpreting
+the model’s input
+the prediction
+
+[title]Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches
+UW
+UH
+OY
+
+[title]The VAROS Synthetic Underwater Data Set:
+water turbidity
+vision algorithms
+real underwater environments
+Underwater visual perception
+Ground truth data
+
+[title]Deep Disguised Faces Recognition
+face recognition
+DFW
+generic face
+recognition
+the Disguised Faces
+
+disguised faces
+
+[title]HAA500: Human-Centric Atomic Action Dataset with Curated Videos
+existing atomic action datasets
+action recognition
+action classification
+Basketball
+Baseball Pitching
+
+[title]End-to-End Dense Video Captioning with Parallel Decoding
+Dense video
+predicted captions
+event pieces
+PDVC
+event
+
+[title]Extreme Low Resolution Action Recognition with Spatial-Temporal
+action recognition
+extreme
+LR action recognition
+LR
+the network training
+a new spatial-temporal multi-head self-attention
+network
+
+[title]Exemplar Guided Face Image Super-Resolution without Facial Landmarks
+face images
+another HR face image
+SR and HR ground truth images
+perceptual quality
+face
+
+[title]Spatial Sampling Network for Fast Scene Understanding
+semantic segmentation
+inference time
+scene understanding
+outdoor scene
+common
+semantic segmentation networks
+
+[title]A Two-branch Neural Network for Non-homogeneous Dehazing via Ensemble
+non-homogeneous dehazing
+image dehazing
+NTIRE challenges
+homo-
+geneous dehazing problems
+the non-homogeneous
+dehazing datasets
+
+[title]Robust and Scalable Column/Row Sampling from Corrupted Big
+contributions
+Summary
+1.1
+
+[title]Mutual Hypothesis Veriﬁcation for 6D Pose Estimation of Natural Objects
+local shape correspondences
+previous pose estimation approaches
+natural objects
+estimation results
+Mutual Hypothesis Veriﬁcation
+
+[title]Enlisting 3D Crop Models and GANs for More Data Efﬁcient and Generalizable
+fruit position information
+fruit positions
+domains
+crop type
+labeled images
+
+[title]SqueezeMap: Fast Pedestrian Detection on a Low-power Automotive Processor
+pedestrian detection
+pedestrian locations
+detection performance
+Pedestrian detection
+a power envelope
+
+[title]On Disentanglement and Mutual Information
+Semi-Supervised Variational Auto-Encoders
+labelled datapoints
+17
+28
+30
+4
+
+[title]FERAtt: Facial Expression Recognition with Attention Net
+expression recognition
+attention
+
+facial expression recognition
+
+facial expressions
+a feature attention map
+
+[title]Batch DropBlock Network for Person Re-identiﬁcation and Beyond
+local regions
+an attentive feature learning module
+the feature dropping branch
+pose changes
+the Stanford Online Products dataset
+
+[title]Multi-person 3D Pose Estimation and Tracking in Sports
+2D pose detections
+large calibration error
+poses
+3D skeletons
+multi-view video
+
+[title]Low-rate Image Compression with Super-resolution Learning
+rate control
+integrated non-local attention modules
+Multiple models
+bit rate
+consumption
+the bit rate constraint
+
+[title]Towards Improving the Consistency, Efﬁciency, and Flexibility of
+inﬂexible search process
+search
+architecture derivation
+evaluation
+Most differentiable neural architecture search methods
+
+[title]Learning Deep Features for Giant Panda Gender Classiﬁcation using Face
+panda faces
+panda
+pandas
+gender ratio
+Giant panda
+
+[title]Flexible Background Subtraction With Self-Balanced Local Sensitivity
+optimal performance
+good results
+baseline scenarios
+increased sensitivity
+pixel-level feedback loops
+
+[title]The First Vision For Vitals (V4V) Challenge for Non-Contact Video-Based
+impressive results
+video
+Computer Vision
+public health emergencies
+pandemic
+
+[title]Predicting the Category and Attributes of Visual Search Targets
+gaze data
+training data
+gaze behaviour
+human gaze
+image and gaze data
+
+[title]Cherry-Picking Gradients: Learning Low-Rank Embeddings of Visual Data via
+large grids
+entire organs
+3D tomography
+samples
+local representative samples
+
+[title]Rate-Distortion Optimized Learning-Based Image Compression using an
+many traditional image coders
+comparable non-hierarchical models
+full image autoencoders
+modern image
+traditional coders
+
+[title]Reposing Humans by Warping 3D Features
+RGB space
+human images
+an explicit 3D body mesh
+self-occluded body parts
+explicit geo-
+metric warping
+
+[title]A Style-Based Generator Architecture for Generative Adversarial Networks
+variation
+human faces
+traditional distribution quality metrics
+intuitive, scale-specific control
+style transfer
+literature
+
+[title]Cast Search via Two-Stream Label Propagation
+identiﬁcation
+Portraits
+CSP
+Such drastic visual variations
+-
+
+[title]FullFusion: A Framework for Semantic Reconstruction of Dynamic Scenes
+understanding
+ﬁnd effective ways
+SLAM
+scenes
+
+static scene elements
+
+[title]Deep Visual Teach and Repeat on Path Networks
+Visual paths
+visual path
+path networks
+visual data
+deep learning
+
+[title]Region-Adaptive Deformable Network for Image Quality Assessment
+Image quality assessment
+better visual performance
+different patch regions
+unsatisfactory performance
+image restoration
+
+[title]Structured Visual Search via Composition-aware Learning
+competing techniques
+previous techniques
+ous relationships
+visual search
+a smaller feature space
+
+[title]Monitoring Ethiopian Wheat Fungus
+costly data collection techniques
+existing techniques
+data
+crop disease
+com-
+peting techniques
+
+[title]ISNet: Integrate Image-Level and Semantic-Level Context
+semantic image segmentation
+the semantic-level contextual information
+the contextual information
+the image-
+level contextual information
+Cityscapes
+
+[title]Unsupervised Joint 3D Object Model Learning and 6D Pose Estimation
+instance segmentation
+multiple instances
+instance
+instances
+several object mod-
+
+[title]RGB-D Indoor Mapping Using Deep Features
+large sequences
+deep features
+deep feature vectors
+better data association
+depth sensors
+
+[title]DSD: Depth Structural Descriptor for Edge-Based Assistive Navigation
+surface structure
+assistive vision
+surface geometry
+edges
+structural edges
+
+[title]Generative Layout Modeling using Constraint Graphs
+conditional layout
+higher quality layouts
+layout
+layouts
+layout generation
+
+[title]Assistive Signals for Deep Neural Network Classiﬁers
+different lighting conditions
+conﬁdence
+deep models
+conventional methods
+a model’s conﬁdence score
+
+[title]Learning Better Visual Data Similarities via New Grouplet Non-Euclidean
+data points
+tween data points
+different DML methods
+method
+grouplet
+
+[title]The Flag Manifold as a Tool for Analyzing and Comparing Sets of Data Sets
+such additional confounding factors
+Grassmann man-
+ambient dimension
+ﬂag structure
+points
+
+[title]Filter Grafting for Deep Neural Networks
+invalid ﬁlters
+ﬁlters
+ﬁlter pruning
+networks
+more representation capacity
+
+[title]Medical Time Series Classiﬁcation with Hierarchical Attention-based Temporal
+benchmark TCN models
+model
+deep learning models
+handcrafted features
+attention mechanisms
+
+[title]CATS 2: Color And Thermal Stereo Scenes with Semantic Labels
+3D point clouds
+stereo matching algorithms
+ground truth disparity information
+scenes
+labels
+
+[title]ESIR: End-to-end Scene Text Recognition via Iterative Image Rectiﬁcation
+scene text distortions
+scene texts
+text lines
+texts
+text appearances
+
+[title]Learning the Redundancy-free Features for Generalized Zero-Shot Object
+the object recognition ability
+subtle differences
+the statistical dependence
+the
+redundancy-free feature space
+the original visual features
+
+[title]Fast Camera Image Denoising on Mobile GPUs with Deep Learning,
+Image denoising
+smartphone GPUs
+high efﬁciency
+Mali GPU
+end
+
+[title]Adaptive online k-subspaces with cooperative re-initialization
+optimization
+stochastic gradient de-
+scent
+algorithm
+SGD
+CoRe
+
+[title]Building 3D Morphable Models from a Single Scan
+multiple scans
+3D data
+3D object categories
+3D reconstructions
+generative models
+
+[title]Temporal Distance Matrices for Squat Classiﬁcation
+poor form
+real world data
+squats
+1D convolutions
+bench pressing
+
+[title]Improve Image Captioning by Estimating the Gazing Patterns from the Caption
+CNN
+existing image caption models
+Neural Image Caption model
+image features
+new images
+
+[title]Convolutional Experts Constrained Local Model for 3D Facial Landmark
+facial landmark detection
+Convolutional Experts Network
+Adjustment Network
+facial hair
+end
+
+[title]AdvGAN++: Harnessing Latent Layers for Adversary Generation
+perturbation
+
+[title]Enhancing 2D Representation via Adjacent Views for 3D Shape Retrieval
+3D shape retrieval
+2D view
+2D views
+signiﬁcant shape information
+Multi-view shape descriptors
+
+[title]GlocalNet: Class-aware Long-term Human Motion Synthesis
+temporal pose variations
+
+human activities
+multiple class/types
+
+[title]Predicting Protein Content in Grain Using Hyperspectral Deep Learning
+2D spatial convolution
+convolutional neural networks
+hyperspectral images
+bulk wheat grain kernels
+regression
+
+[title]Breast Cancer Histopathological Image Classiﬁcation: Is Magniﬁcation
+breast histopathology images
+image analysis
+images
+different optical magniﬁ-
+cation levels
+independent model
+
+[title]Iris Liveness Detection by Relative Distance Comparisons
+single patches
+two fake patches
+two real iris patches
+a genuine patch
+presentation attack
+
+[title]Fast and Efﬁcient Model for Real-Time Tiger Detection In The Wild
+Amur Tiger Detection
+other methods
+public leaderboard score
+FPN based network architec-
+ture
+smart cameras
+
+[title]Improve Image Codec’s Performance By Variating Post Enhancing Neural
+VimicroABCnet@0.02db
+
+[title]Compact Feature Representation for Image Classiﬁcation Using ELMs
+compact feature learning module
+deep feature representation
+many deep feature representation
+methods
+Post-processing module
+storage space
+
+[title]More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep
+perturbation types
+Expert models
+expert models
+multiple perturbations
+multiple perturbation attacks
+
+[title]Uncertainty Quantification using Variational Inference for Biomedical Image
+brain tumour images
+image classification
+epistemic uncertainty
+variational inference techniques
+a principled bayesian manner
+
+[title]Pix2Face: Direct 3D Face Model Estimation
+3D landmarks
+unconstrained 2D imagery
+3D face shape
+landmarks
+facial geometry
+
+[title]Understanding and Evaluating Racial Biases in Image Captioning
+IRB approval
+racial biases
+people
+image
+images
+
+[title]Densely-packed Object Detection via Hard Negative-Aware Anchor Attention
+conventional object detection
+HNAA
+Hausdorff
+Densely-packed object detection
+AWHD
+
+[title]MAAD: A Model and Dataset for “Attended Awareness” in Driving
+gaze calibration
+visual saliency
+awareness
+safety systems
+dataset
+
+[title]DHA: Supervised Deep Learning to Hash with an Adaptive Loss Function
+nearest neighbor retrieval
+original data
+data
+semantic similarities
+different levels
+
+[title]MTMSN: Multi-Task and Multi-Modal Sequence Network for Facial Action Unit
+basic expression recognition
+the-
+human affective
+restricted scenarios
+behav-
+ior analysis
+
+[title]Efﬁcient Structured Pruning and Architecture Searching for Group Convolution
+given inference budget constraints
+such structure
+test accuracy
+actual speed-up
+a pre-trained model
+
+[title]Actional-Structural Graph Convolutional Networks for
+Action recognition
+action recognition
+ﬁxed skeleton graphs
+implicit joint correlations
+action
+
+[title]A Uniﬁed Framework for Compressive Video Recovery
+
+[title]Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds
+Event cameras
+event cameras
+event thresholds
+event
+events
+
+[title]Boosting Monocular Depth Estimation with Lightweight 3D Point Fusion
+3D points
+points
+existing depth completion methods
+depth guidance
+conventional structure
+
+[title]Person Re-Identiﬁcation from Gait using an Autocorrelation Network
+different viewpoints
+pose frequencies
+existing work
+end
+son
+
+[title]Learning Spatiotemporal Features for Infrared Action Recognition with 3D
+action recognition
+visible spectrum imaging
+IR videos
+more
+robust action recognition systems
+much attention
+
+[title]Physics-based Iterative Projection Complex Neural Network for Phase Retrieval
+deep neural networks based methods
+deep neural network
+Phase retrieval
+phase retrieval
+network interpretability
+
+[title]What Face and Body Shapes Can Tell Us About Height
+human height
+3D human pose estimation
+explicit height labels
+image content
+additional images
+
+[title]Few-Shot Hash Learning for Image Retrieval
+small training samples
+training images
+pre-deﬁned categories
+image retrieval tasks
+locality sensitive hashing
+
+[title]HyperMixNet: Hyperspectral Image Reconstruction with Deep Mixed Network
+spectral imaging
+spectral fidelity
+spectral attribute
+reconstruction model scale
+Many hyperspectral imaging systems
+
+[title]A Cloud Infrastructure for Target Detection and Tracking
+
+[title]Few-shot Object Detection via Feature Reweighting
+
+[title]StRDAN: Synthetic-to-Real Domain Adaptation Network for Vehicle
+VeRi
+real data
+CityFlow-ReID
+data
+semi-supervised learning methods
+
+[title]Uncertainty Quantification using Variational Inference for Biomedical Image
+brain tumour images
+image classification
+epistemic uncertainty
+variational inference techniques
+a principled bayesian manner
+
+[title]Show and Recall: Learning What Makes Videos Memorable
+video memorability
+modeling video memorability
+video sub-shot memorability
+video content
+video analysis
+
+[title]Unsupervised Layered Image Decomposition into Object Prototypes
+real images
+images
+complete images
+learnable images
+prototypical images
+
+[title]Sign Language Production: A Review
+sign language
+communication language
+Sign language recognition
+deep learning
+research
+
+[title]Predicting Future Person Activities and Locations in Videos
+different models
+adversarial attacks
+social media platforms
+DeepFake Detection
+complete knowledge
+
+[title]Face Parsing from RGB and Depth
+depth face
+annotated depth data
+depth domain
+RGB face
+depth
+
+[title]Fooling LiDAR Perception via Adversarial Trajectory Perturbation
+LiDAR point clouds
+incorrect positions
+such attacks
+other detectors
+deep learning
+
+[title]Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis
+cosine error
+ModelNet40
+Discrete point cloud
+several point cloud
+analysis tasks
+3D geometries
+
+[title]FALCONS: FAst Learner-grader for CONtorted poses in Sports
+other contortive sports
+sports
+Extreme Poses
+previous studies
+such scenarios
+
+[title]Few-shot Learning with Online Self-Distillation
+good representation models
+data augmentation
+data
+tasks
+representation
+
+[title]Similarities in African Ethnic Faces from the Biometric Recognition Viewpoint
+pose
+Face
+
+[title]Studying the Effects of Self-Attention for Medical Image Analysis
+medical images
+subconscious feature relevancy
+visual features
+medical computer vision tasks
+relevant context
+
+[title]Person Re-Identiﬁcation by Deep Learning Multi-Scale Representations
+Cam
+
+[title]Supervised deep learning of elastic SRV distances on the shape space of curves
+curves
+geometric objects
+shape analysis deals
+SRV distances
+tions
+
+[title]HSiPu2 - A New Human Physical Fitness Action Dataset for Recognition and 3D
+human physical ﬁtness action recognition
+human behaviours recognition
+three physical ﬁtness actions
+standard and non-standard
+actions
+deep learning techniques
+
+[title]EcoNAS: Finding Proxies for Economical Neural Architecture Search
+previous proxy strategies
+candidate networks
+network candidates
+candidates
+performance
+
+[title]3D Pose Regression using Convolutional Neural Networks
+SPD matri-
+Euclidean space
+SPD
+scalar logarithmic multi-
+Riemannian manifolds
+
+[title]Set2Model Networks: Learning Discriminatively To Learn Generative Models
+noisy training sets
+simple generative probabilistic models
+sets
+strong baselines
+Gaussians
+
+[title]DIY Human Action dataset Generation
+unlimited action recognition training data
+current action recognition neural nets
+video action clips
+training data
+data requirement
+
+[title]Craquelure as a Graph: Application of Image Processing and Graph Neural
+damage identiﬁcation
+aging monitoring
+corresponding toolbox
+information
+characterization
+
+[title]ABD-Net: Attention Based Decomposition Network for 3D Point Cloud
+Point clouds
+point cloud
+point clouds
+point sets
+point cloud decomposition
+
+[title]Multi-scale Adaptive Dehazing Network
+non-uniform haze
+uneven haze
+haze
+haze-free images restoration
+further fo-
+cused learning
+
+[title]Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark
+complicated backgrounds
+testing data
+training data
+computer vision area
+computer vision
+
+[title]Effect of Annotation Errors on Drone Detection with YOLOv3
+lems
+
+[title]Coordinate Attention for Efﬁcient Mobile Network Design
+channel attention
+attention
+precise positional information
+features
+semantic segmentation
+
+[title]On the Importance of Encrypting Deep Features
+model inversion attacks
+user data
+deep features
+feature vectors
+severe constraints
+
+[title]Melanoma Thickness Prediction Based on Convolutional Neural Network with
+melanoma thickness
+melanoma thickness prediction
+melanoma prognosis
+melanoma
+malignant melanoma
+
+[title]Click to Move: Controlling Video Generation with Sparse Motion
+simple object trajectories
+input
+video generation
+modelling object interac-
+tions
+
+user input
+
+[title]Differentiable Scene Graphs
+reasoning tasks
+relations
+CLEVR
+edges
+Visual Genome
+
+[title]Collaborative Unsupervised Visual Representation Learning
+non-IID data
+unlabeled data
+data privacy
+centralized data
+Decentralized data
+
+[title]The Emperor’s New Masks: On Demographic Differences and Disguises
+face recognition technology
+disguise
+disguises
+race
+gender
+
+[title]Cross-domain Detection via Graph-induced Prototype Alignment
+domain adaptation
+domain
+elaborate prototype representations
+existing methods
+various cross-domain detection tasks
+
+[title]Scene Layout Generation with Conceptual and Spatial Diversity
+
+[title]Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image
+labeled images
+clusters
+discrete empirical measures
+CNN
+the unlabeled images
+
+[title]Channel-wise Topology Refinement Graph Convolution for Skeleton-Based
+ing representative features
+different topologies
+graph topology
+joint features
+different chan-
+
+[title]All-Weather Deep Outdoor Lighting Estimation
+LDR panoramas
+overcast skies
+weather conditions
+a single LDR image
+HDR lighting
+
+[title]Tuning Modular Networks with Weighted Losses for Hand-Eye Coordination
+modular networks
+modular deep visuo-
+motor policies
+a robotic planar reaching task
+visuo-
+end
+
+[title]Anchor Diffusion for Unsupervised Video Object Segmentation
+time
+intermediate frames
+unsupervised methods
+Unsupervised video object segmentation
+consistent performance
+
+[title]GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition
+popular classes
+class geometry
+class weights
+class
+classes
+
+[title]Alive Caricature from 2D to 3D
+expressive 3D caricatures
+standard face datasets
+classical parametric face models
+face constraints
+2D images
+
+[title]Unpaired Pose Guided Human Image Generation
+2D images
+image
+real samples
+detailed control
+realistic look-
+ing images
+
+[title]Revisiting The Evaluation of Class Activation Mapping for Explainability:
+such approaches
+approaches
+better effectiveness
+reproducibility
+compar-
+
+[title]HumanMeshNet: Polygonal Mesh Recovery of Humans
+smooth surface reconstruction
+local surface
+predict-
+ing hand mesh models
+reality platforms
+high-resolution meshes
+
+[title]Beyond Holistic Object Recognition:
+part state
+part states
+part level
+parts
+part localization
+
+[title]Understanding Deep Neural Networks For Regression In Leaf Counting
+regression tasks
+task
+the counting task
+leaf
+counting
+Deep Neural Networks
+
+[title]Unsupervised and Semi-Supervised Domain Adaptation
+drone videos
+diverse actions
+cross-view action
+different action label sets
+human action classiﬁcation
+
+[title]The TUM-DLR Multimodal Earth Observation Evaluation Benchmark
+different application scenarios
+smartphones
+perspectives
+special focus
+different modalities
+
+[title]Leveraging the Present to Anticipate the Future in Videos
+action anticipation
+present action
+robotics
+actions
+time
+
+[title]UniPose: Uniﬁed Human Pose Estimation in Single Images and Videos
+several pose estimation metrics
+statistical postprocessing methods
+multi-frame processing
+multi-scale ﬁelds
+temporal pose
+
+[title]Defending Against Universal Attacks Through Selective Feature Regeneration
+universal perturbations
+universal attack examples
+unseen universal attacks
+trainable feature regeneration units
+erroneous predictions
+
+[title]Adaptive Low Rank Approximation for Tensors
+tensor rank detection
+tensor approximation
+a given tensor
+ﬁnd-
+ing low rank approximation
+coefﬁcient weights
+
+[title]Measuring Hidden Bias within Face Recognition via Racial Phenotypes
+face recognition tasks
+face identification
+face recognition
+face
+such racial bias analysis
+
+[title]Component Biologically Inspired Features with Moving Segmentation for
+age grouping
+age estimation
+contemporary approaches
+features
+more parameters
+
+[title]Bridging the Reality Gap for Pose Estimation Networks using Sensor-Based
+synthetic training data
+annotated training data
+manual annotation
+methods
+object pose estimation
+
+[title]Squeezed Bilinear Pooling for Fine-Grained Visual Categorization∗
+matrix normal-
+the original bilinear pooling
+the proposed selection method
+the VGG-16 based
+models
+second
+
+[title]Estimating Egocentric 3D Human Pose in Global Space
+external cameras
+many applications
+daily activities
+Egocentric 3D human pose estimation
+the fisheye camera
+
+[title]Multi-level Encoder-Decoder Architectures for Image Restoration
+image restoration
+handcrafted image priors
+methods
+var-
+ious image restoration tasks
+training data
+
+[title]Fast and Flexible Image Blind Denoising via Competition of Experts
+image blind denoising
+denoising performance
+computational cost
+computational efﬁciency
+identical architectures
+
+[title]A System-Level Solution for Low-Power Object Detection
+input size
+different convolutional layers
+deep learning
+shift operators
+arbi-
+trary feature size
+
+[title]SVEA: A Small-scale Benchmark for Validating the Usability of Post-hoc
+other larger datasets
+excessive time
+effort
+Novel solutions
+understandability
+
+[title]Multi-Scale Weighted Branch Network for Remote Sensing Image Classiﬁcation
+Multi-Scale Weighted
+lower layers
+Branch Module
+a Multi-Scale Weighted Branch Network
+Hierarchical Weighted
+
+[title]Sparse Re-Id: Block Sparsity for Person Re-Identiﬁcation
+-
+superior performance
+the re-identiﬁcation problem
+non-overlapping camera
+views
+identiﬁcation
+
+[title]Leveraging Intra and Inter-Dataset Variations for
+
+[title]Constraint-Aware Importance Estimation for
+ﬁlter importance
+loss
+convolutional neural network
+the same multiple resource constraints
+CAIE
+
+[title]Intra-Camera Supervised Person Re-Identiﬁcation: A New Benchmark
+inter-camera identity
+-id datasets
+identity labels
+-
+deep learning method
+
+[title]PipeNet: Selective Modal Pipeline of Fusion Network
+multi-modal face dataset
+-modal Cross
+-ethnicity Face
+Anti-spooﬁng Recognition Challenge@CVPR2020
+Face Anti-spooﬁng(CeFA
+
+multi-modal data
+
+[title]Bilinear Parameterization for Non-Separable Singular Value Penalties
+second order methods
+differentiable equivalents
+standard splitting schemes
+machine learning
+non-convex optimization prob-
+lems
+
+[title]Image to Video Domain Adaptation Using Web Supervision
+target domain
+potential domain shift
+noisy results
+labeled data
+results
+
+[title]Explainable Hierarchical Semantic Convolutional Neural Network for Lung
+comparable results
+deep learning methods
+prior domain
+human readers
+interpretable lung can-
+cer predictions
+
+[title]Generating 5D Light Fields in Scattering Media for Representing 3D Images
+3D scattering media
+media
+5D light ﬁelds
+light ﬁelds
+the scattering media de-
+
+[title]Visual Saliency Transformer
+RGB
+existing methods
+image patches
+saliency
+SOD
+
+[title]Globally Optimal and Efﬁcient Manhattan Frame Estimation
+MF estimation
+MF
+a rotation space search
+the rotation space
+all MF rotations
+
+[title]Blockchain Enabled AI Marketplace: The Price You Pay For Trust
+different private data providers
+data providers
+derive value
+Data providers
+consumers
+
+[title]Improving Gradient Histogram Based Descriptors for Pedestrian Detection in
+Gradient histogram based descriptors
+
+[title]End-to-End Speech-Driven Realistic Facial Animation with Temporal GANs
+visual features
+audio features
+any handcrafted intermediate features
+eyebrow movements
+raw audio
+
+[title]Analysing Affective Behavior
+Unit Detection
+Seven
+ABAW Competition
+IEEE Conference
+2020-
+
+[title]Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks
+spatiotemporal features
+multiple body level dynamic images
+hand level
+Convolutional LSTM Networks
+Convolutional Neural
+
+[title]Range Adaptation for 3D Object Detection in LiDAR
+object detection
+3D object detection
+similar performance
+modern autonomous driving systems
+point clouds
+
+[title]Contrastive Learning for Natural Language-Based Vehicle Retrieval
+Natural Language
+Mean Reciprocal Rank score
+Mean Reciprocal Rank
+the private test dataset
+AICity Challenge
+
+[title]SLAMANTIC - Leveraging Semantics to Improve VSLAM in Dynamic
+
+[title]Toe Prints: An Application Study for Biometric Veriﬁcation in Adults
+toe print
+toe prints
+EER values
+Biometric recognition systems
+the toe print veriﬁcation system
+
+[title]Cascade Image Matting with Deformable Graph Refinement
+ter accomplish human image matting tasks
+real human images
+single human images
+DGR module
+convolutional neural networks
+
+[title]Infant-Prints: Fingerprints for Reducing Infant Mortality
+malnutrition
+infants
+a high-resolution ﬁnger-
+i
+these infant deaths
+
+[title]Live Demonstration: Incremental Motion Estimation for Event-based Cameras
+STVG
+the cross-modal features
+the predicted object tube
+a target object
+the target object
+
+[title]Energy-Based Open-World Uncertainty Modeling
+K pre-
+machine learning systems
+model uncertainty
+classification accuracy
+high probability
+
+[title]ArcFace for Disguised Face Recognition
+high intra-class diversity
+deep face recognition
+face feature
+face detection
+intra-class compactness and inter-class discrep-
+ancy
+
+[title]E2VTS: Energy-Efﬁcient Video Text Spotting from Unmanned Aerial Vehicles
+E2VTS
+Spotting solution
+Our contribution
+
+[title]Convolutional Neural Network Pruning with Structural Redundancy Reduction
+structural redundancy
+unimportant ﬁlters
+ﬁlters
+network prun-
+compact architectures
+
+[title]Gaussian Fusion: Accurate 3D Reconstruction via Geometry-Guided
+mean curvature
+local geometric properties
+fusion correspondences
+sensor depth
+delicate geometric details
+
+[title]Public Life in Public Space (PLPS): A multi-task, multi-group video dataset for
+public life research
+Public space
+public space
+public spaces
+real public spaces
+
+[title]Skeleton-based Dynamic hand gesture recognition
+hand skeleton connected joints
+3D hand gesture recognition
+Gaussian Mixture Model
+Intel RealSense
+skeleton
+
+[title]Crowd-11: A Dataset for Fine Grained Crowd Behaviour Analysis
+Crowd behaviour analysis
+crowd behaviours
+effective crowd management
+crowd
+prevent overcrowding
+
+[title]Learning Generalizable Final-State Dynamics of 3D Rigid Objects
+object shape
+unseen object geometries
+3D rigid objects
+objects
+appearance variation
+
+[title]Linear Data Compression of Hyperspectral Images
+tensor principal component analysis
+numerical analysis
+Hyperspectral images
+hyperspectral images
+statistical analysis
+
+[title]Temporal Coherence for Active Learning in Videos
+false negatives
+active learning
+active learning baselines
+video object detection
+object detection
+
+[title]Compact Scene Graphs for Layout Composition and Patch Retrieval
+scene graphs
+scene composition
+scene
+realistic image generation
+realistic images
+
+[title]Physically Inspired Dense Fusion Networks for Relighting
+Image relighting
+perceptual loss
+training
+new illumination settings
+dense shad-
+
+[title]Modelling Ambiguous Assignments for Multi-Person Tracking in Crowds
+wrong assignments
+ambiguous situations
+different detection
+such difficult situations
+identity preservation
+
+[title]Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes
+complex transparent shapes
+transparent shapes
+unconstrained natural images
+complex light transport
+3D point cloud reconstruction
+
+[title]Image De-raining via Continual Learning
+multiple rain datasets
+previous training dataset
+rain streaks
+ﬁxed mapping rules
+different types
+
+[title]Glance and Gaze: Inferring Action-aware Points for One-Stage Human-Object
+GGNet
+interaction prediction
+predeﬁned interaction areas
+discriminative cues
+steps
+
+[title]Refining OpenPose with a new sports dataset for robust 2D pose estimation
+2D pose estimation
+extreme poses
+estimated multi-views 2D poses
+standard datasets
+
+2D pose estimators
+
+[title]Going Deeper into Embedding Learning for Video Object Segmentation
+video object segmentation
+objects
+training bias
+semi-supervised
+video object segmentation
+whistles
+
+[title]RUNet: A Robust UNet Architecture for Image Super-Resolution
+projector resolution
+resolution
+Single image super
+image
+images
+
+[title]Causal affect prediction model using a past facial image sequence
+past facial images
+past images
+corresponding facial images
+future images
+affective valence
+
+[title]Resolution based Feature Distillation for Cross Resolution Person
+low resolution
+multiple resolutions
+resolution invariant features
+single resolution
+Resolution
+
+[title]An evaluation of supervised, novelty-based and hybrid approaches to fall
+simulated falls
+falls
+novelty detection
+accelerometer data
+novelty based fall
+detection techniques
+
+[title]Discover the Unknown Biased Attribute of an Image Classifier
+biases
+its unknown biased attribute
+AI algorithms
+a target attribute
+human experts
+
+[title]DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors
+previous online 3D reconstruction approaches
+Previous online 3D dense reconstruction methods
+such deep priors
+better storage efﬁciency
+face quality
+
+[title]Continual learning in cross-modal retrieval
+cross-modal retrieval
+effective retrieval
+signiﬁcant gains
+shared representation spaces
+visual representations
+
+[title]Embedded Robust Visual Obstacle Detection on Autonomous Lawn Mowers
+lawn mowers
+camera-based non-contact obstacle avoidance
+collision events
+minimal effort
+a non-camera-based mower
+
+[title]MMTM: Multimodal Transfer Module for CNN Fusion
+multiple modalities
+feature modality fusion
+existing pretrained weights
+different spatial dimensions
+dynamic hand gesture recognition
+
+[title]Rotation Invariant Local Binary Convolution Neural Networks
+ResNet[16
+GoogLeNet[33
+
+[title]Sheaves as a Framework for Understanding and Interpreting Model Fit
+models
+
+[title]UnrealPerson: An Adaptive Pipeline towards Costless Person Re-identiﬁcation
+annotated data
+real data
+data
+different domains
+unreal image
+
+[title]Augmented Reality Based Recommendations based on Perceptual Shape Style
+suitable product textures
+digital marketing
+relevant objects/products
+similar pose
+scale
+
+[title]IB-DRR - Incremental Learning with Information-Back
+training samples
+old classes
+new knowledge
+raw exemplars
+samples
+
+[title]Interpretable Deep Learning-Based Forensic Iris Segmentation and Recognition
+iris annulus
+postmortem iris recognition research
+mobile phones
+deceased subjects
+classical iris
+segmentation methods
+
+[title]Learning Marginalization through Regression for Hand Orientation Inference
+subsets
+dataset
+multi-
+layered Random Forest based hand orientation regression
+multi-layered Random Forest
+expert regressors
+
+[title]Multi-Level Domain Adaptive Learning for Cross-Domain Detection
+synthetic data adaptation
+local features
+
+cross camera adaptation
+cross-domain object detec-
+tion
+global-level features
+
+[title]Pose-Guided Knowledge Transfer for Object Part Segmentation
+object part
+different object classes
+multiple object classes
+objects
+part annotations
+
+[title]Skeleton Graph Scattering Networks for 3D Skeleton-based
+various graph spectrum bands
+graphs
+multiple
+graph spectrum bands
+previous methods
+comprehensive motion information
+
+[title]Curriculum Learning for Multi-Task Classiﬁcation of Visual Attributes
+tasks
+image description
+setup
+Visual attributes
+human iden-
+tiﬁcation
+
+[title]Dynamic Divide-and-Conquer Adversarial Training for
+Adversarial training
+computation cost
+semantic segmentation
+additional branches
+deep neural networks
+
+[title]ReMP: Rectiﬁed Metric Propagation for Few-Shot Learning
+bedding space
+this category
+Our work
+
+[title]Balanced Two-Stage Residual Networks for Image Super-Resolution
+single image super
+image
+accuracy
+resolution
+-
+
+[title]Vehicle Re-Identiﬁcation: Pushing the limits of re-identiﬁcation
+identiﬁcation
+vehicle re
+-
+re
+improvements
+
+[title]Effectiveness of Grasp Attributes and Motion-Constraints for
+different objects
+different ways
+action
+actions
+
+object manipulation actions
+
+[title]NTIRE 2020 Challenge on Image Demoireing: Methods and Results
+image
+images
+moire patterns
+the single image demoireing problem
+de-
+graded moire images
+
+[title]StandardGAN: Multi-source Domain Adaptation for Semantic Segmentation of
+multiple source domains
+target domains
+Domain adaptation
+deep learning models
+multiple cities
+
+[title]Multiple Scale Faster-RCNN Approach to
+wheel detection
+hands
+shallower convolution feature maps
+feature maps
+ROI pooling
+
+[title]MonoCInIS: Camera Independent Monocular 3D Object Detection
+camera independent methods
+heterogeneous 3D object datasets
+camera independent geometric reasoning
+methods
+Monocular 3D object detection
+
+[title]Radar-Camera Pixel Depth Association for Depth Completion
+radar pixels
+radar returns
+radar
+video data
+video
+
+[title]EgoRenderer: Rendering Human Avatars from Egocentric Camera Images
+pose image
+neural avatars
+texture synthesis
+dense correspondences
+the input ﬁsheye images
+
+[title]Pose Transformers (POTR): Human Motion Prediction with
+short term predictions
+long term elements
+decode sequences
+human motion prediction
+previous predictions
+
+[title]FashionAI: A Hierarchical Dataset for Fashion Understanding
+precise annotation
+dataset
+manual annotation
+annotation
+practical usefulness
+
+[title]Dynamic Attention-based Visual Odometry
+different motion scenarios
+different semantic regions
+pose estimation
+optical ﬂow maps
+attention maps
+
+[title]Structured Scene Memory for Vision-Language Navigation
+global planning
+following linguistic instructions
+3D environments
+several metrics
+navigation decision
+
+[title]Hand-Object Interaction Detection with Fully Convolutional Networks
+
+[title]MarkerPose: Robust Real-time Planar Target Tracking for Accurate Stereo Pose
+estimation applications
+classical computer vision
+classical approaches
+unbeatable accuracy
+different environments
+
+[title]HRegNet: A Hierarchical Network for
+Point cloud registration
+registration
+keypoints
+Outdoor LiDAR point clouds
+shallower lay-
+
+[title]Improving 3D Object Detection with Channel-wise Transformer
+3D proposals
+multi-scale feature fusion
+point clouds
+points
+detection
+
+[title]P2L: Predicting Transfer Learning
+industrial defect detection
+Semantic Relations
+a cloud-based vision API
+models
+training
+
+[title]Neural Architecture Search with Random Labels
+random label
+full ground truth labels
+NAS
+ran-
+dom labels
+SuperNet
+
+[title]OMNet: Learning Overlapping Mask for Partial-to-Partial
+Point cloud registration
+non-overlapping points
+previous global feature based approaches
+global features
+non-overlapping regions
+
+[title]Binocular Mutual Learning for Improving Few-shot Classification
+class space
+existing methods
+further performance gains
+cross-view modeling
+abundant labeled data
+
+[title]Unsupervised Instance Segmentation in Microscopy Images via Panoptic Domain
+histopathology images
+ﬂuores-
+cence microscopy images
+Unsupervised domain adaptation
+unsupervised nuclei
+the synthesized images
+
+[title]Contrastive Learning of Image Representations with
+general image representation
+other videos
+video data
+invariant representations
+positive sample pairs
+
+[title]A Dual Adversarial Calibration Framework for Automatic Fetal Brain Biometry
+LC images
+images
+significant image distribution
+shift
+adversarial perturbations
+adversarial pathways
+
+[title]Algorithmic Fairness in Face Morphing Attack Detection
+
+[title]Is Pseudo-Lidar needed for Monocular 3D Object detection?
+monocular depth estimation
+depth estimation
+depth
+3D object detection
+unla-
+beled pre-training data
+
+[title]Aerial Vehicle Tracking by Adaptive Fusion of Hyperspectral Likelihood Maps
+hyperspectral imagery
+hyperspectral channels
+likelihood maps
+Hyperspectral cameras
+infrared wavelengths
+
+[title]Few-shot Image Classification: Just Use a Library of Pre-trained Feature
+few-
+shot image classification
+cross-domain few-shot image
+classification
+
+pre-trained feature extractors
+few-shot im-
+age classification
+sophisticated meta-learning methods
+
+[title]Attention-based Adaptive Selection of Operations for Image Restoration
+multiple operations
+unknown mixture ratios
+gradient descent
+image quality
+images
+
+[title]MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments
+dynamic objects
+other multi-view
+stereo methods
+a multi-view stereo
+a novel multi-stage training scheme
+MonoRec
+
+[title]PointNetLK Revisited
+better generalization ability
+current learning methods
+different complex scenes
+classical non-learning methods
+remarkable generalization
+
+[title]Dual-Mode Vehicle Motion Pattern Learning for High Performance
+vehicle detection procedure
+different real scenes
+road
+NVIDIA AI CITY CHALLENGE
+the vehicle motion patterns
+
+[title]Consensus Maximization Tree Search Revisited
+tree search
+non-adjacent levels
+reach
+inputs
+paths
+
+[title]Nonrigid registration of hyperspectral and color images with vastly different
+the color image
+nonrigid distortion
+real datasets
+hyperspec-
+tral and hi-resolution color images
+a rigid transformation
+
+[title]Semantic Concept Testing in Autonomous Driving
+DNNs
+object metadata
+DNN testing
+illumination
+shirt colour
+
+[title]Improved Descriptors for Patch Matching and Reconstruction
+Synthetic datasets
+MVS
+local image descriptors
+keypoint descriptors
+matching performance
+
+[title]A Low Power, High Throughput, Fully Event-Based Stereo System
+disparity map
+disparity map ejection
+low power depth reconstruction
+low power
+events
+
+[title]DISCO – U-Net based Autoencoder Architecture with Dual Input Streams for
+autoencoder architecture
+skeleton prediction performances
+corresponding counterpart layers
+skeletal image generation
+symbolic label usage
+
+[title]Morph Detection Enhanced by Structured Group Sparsity
+morphed images
+bands
+-
+MorGAN
+face
+
+[title]Unsupervised Domain Adaptation for Multispectral Pedestrian Detection
+
+[title]FBRNN:feedback recurrent neural network for extreme image super-resolution
+reconstructed images
+LR images
+Single image extreme
+enhanced SR reconstruction
+Perceptual Extreme SR
+
+[title]ORB-SLAM with Near-infrared images and Optical Flow data
+frame rate
+memory consumption
+OF
+embedded platforms
+Hardware
+
+[title]Adversarial Joint-Distribution Learning for Novel Class Sketch-Based Image
+sketch feature
+sketch features
+sketches
+images
+the novel class image features
+
+[title]FashionMirror: Co-attention Feature-remapping Virtual Try-on with Sequential
+time
+error
+quantitative results
+the inference time
+semantic segmentation
+
+[title]Elaborative Rehearsal for Zero-shot Action Recognition
+seen actions
+unseen actions
+action classes
+actions
+seen data
+
+[title]Loitering behaviour detection of boats at sea
+skiff boats
+Activity zones
+activity zones
+abnormal models
+zone occupancy
+
+[title]CODEs: Chamfer Out-of-Distribution Examples against Overconfidence Issue
+OOD examples
+distribution
+OOD detection
+generative adversarial network
+deep neural networks
+
+[title]Orthogonal Convolutional Neural Networks
+feature redundancy
+convolutional ﬁlters
+Deep convolutional neural networks
+further
+performance improvement
+pose orthogonality
+
+[title]ProTractor: a lightweight ground imaging and analysis system
+plants
+large outdoor plant
+acquisition systems
+crop row images
+early-season plants
+
+[title]A mixture model for aggregation of multiple pre-trained weak classiﬁers
+different networks
+Deep networks
+budget
+-
+multiple
+weak classiﬁers
+
+[title]A Decoder-Free Approach for Unsupervised Clustering and Manifold Learning
+pre-trained autoencoders
+better cluster image samples
+Random Triplet Mining
+random training samples
+trained autoencoders
+
+[title]Positive-Unlabeled Data Puriﬁcation in the Wild for Object Detection
+unlabeled data
+massive unlabeled images
+data
+massive unlabeled ones
+labeled images
+
+[title]Generative Model with Semantic Embedding and Integrated Classiﬁer for
+feature space
+visual spaces
+better features
+semantic inferences
+Generative models
+
+[title]Feature-Align Network with Knowledge Distillation for Efficient Denoising
+17.6× fewer parameters
+image restoration
+RAW image
+mobile devices
+MACs
+
+[title]Computer Vision Meets Geometric Modeling: Multi-view Reconstruction of
+normals
+cylinders
+mul-
+tiple views
+surface
+normals
+
+object detection
+
+[title]On the Impact of Parallax Free Colour and Infrared Image Co-Registration to
+standalone colour
+RGB
+multi-view parallax issues
+combined colour
+Illumination invariant background models
+
+[title]Person-independent 3D Gaze Estimation using Face Frontalization
+3D gaze estimation
+Gaze datasets
+gaze
+situation analysis
+Multi-View Gaze and CAVE Gaze
+
+[title]MaskOut: A Data Augmentation Method for Masked Face Recognition
+masked face recognition models
+face recognition
+demic, masked face recognition
+more attention
+masked face recognition
+
+[title]Variable Rate Image Compression Method with Dead-zone Quantizer
+Deep learning based image compression methods
+compression model
+MSE
+uniform quantizer
+bitrate
+
+[title]A long short-term memory convolutional neural network
+FPV activity recognition
+FPV
+propriocep-
+tive activities
+global motion features
+ﬁrst-person vision
+
+[title]Latent Max-margin Metric Learning for Comparing Video Face Tubes
+face biometrics based video analysis
+subjects
+faces
+TV Series Face Tubes
+latent variables
+
+[title]Multi-Target Multi-Camera Vehicle Tracking for City-Scale Trafﬁc Management
+multiple cameras
+intelligent city planning
+Multi-target multi-camera (MTMC) tracking
+AI City Challenge
+multiple objects
+
+[title]CONet: Channel Optimization for Convolutional Neural Networks
+model accuracy
+plexity
+evaluation metrics
+simple heuristics
+discrete sample spaces
+
+[title]Recognizing Personal Contexts from Egocentric Images
+limited training samples
+query adaptation
+large scale applications
+too many training samples
+a nov-
+el angular regularization constraint
+
+[title]Metric-based Regularization and Temporal Ensemble for Multi-task Learning
+temporal task
+multi-task learning
+un-supervised multi-task learning
+a speciﬁc task
+high computation capability
+
+[title]Few-Shot Video Classiﬁcation via Temporal Alignment
+video data
+learning models
+novel class proxies
+novel classes
+few-shot video classiﬁcation
+
+[title]MGGAN: Solving Mode Collapse Using Manifold-Guided Training
+Mode collapse
+mode collapse
+data distribution
+mode imbalance
+existing GAN architecture
+
+[title]SOON: Scenario Oriented Object Navigation with Graph-based Exploration
+step
+region description
+object attribute
+object relationship
+intelligent robots
+
+[title]Field Convolutions for Surface CNNs
+field convolution
+surface learning frameworks
+convolution
+sparse matching
+Field convolutions
+
+[title]Category-Invariant Feature Enhancement for Adversarial Domain Adaptation
+Adversarial domain adaptation
+domain
+Adversarial domain alignment
+representative adversarial domain adaptation methods
+feature distributions
+
+[title]Space-Time-Brightness Sampling
+video capture
+previous method
+high dynamic range
+scene capture
+data transmission
+
+[title]Can Optical Trojans Assist Adversarial Perturbations?
+neural network vision pipelines
+various simulated settings
+lens defocus
+attacks
+the neural network vision pipeline
+
+[title]Coarse-to-Fine Hamiltonian Dynamics of Hierarchical Flows in Computational
+Hilbert space norm
+particles
+multi-scale vector ﬁelds
+ﬁne
+scale
+
+[title]Digital and Physical-World Attacks on Remote Pulse Detection
+face video
+presentation attacks
+rPPG methods
+reflected light with-
+imperceptible periodic noise
+
+[title]Multi-Modal Embedding for Main Product Detection in Fashion
+textual metadata
+
+challenging fashion images
+
+fashion images
+the textual metadata
+prove training stability
+
+[title]Computer Vision Problems in Plant Phenotyping, CVPPP 2017
+formal ambiance
+ambiance
+subjective assessment
+type
+social media images
+
+[title]Using Player’s Body-Orientation to Model Pass Feasibility in Soccer
+feasibility measure
+pass events
+players
+promising results
+orientation
+
+[title]ImagePairs: Realistic Super Resolution Dataset via Beam Splitter Camera Rig
+super resolution
+image quality enhancement
+real image data
+low-resolution images
+low-resolution high-resolution images
+
+[title]Emotion Recognition With Sequential Multi-task Learning Technique
+task
+massive annotated datasets
+label
+action units
+affective information
+
+[title]Weakly Supervised Fusion of Multiple Overhead Images
+image quality annotations
+image quality
+semantic segmentation
+varying levels
+Existing fusion methods
+
+[title]Towards Real-time Sign Language Interpreting Robot:
+non-manual com-
+non-manual components
+similar signs
+sign language
+accuracy
+
+[title]Scaled 360 layouts: Revisiting non-central panoramas
+single non-central panoramas
+non-central panoramas
+3D layout recovery
+single panorama layouts
+non-central projection systems
+
+[title]Hierarchical Discrete Distribution Decomposition for Match Density Estimation
+multiple scales
+uncertainty estimation
+the local matching distributions
+probabilistic pixel
+candidates
+
+[title]Predictive Feature Learning for Future Segmentation Prediction
+recurrent feature prediction
+Feature Autoencoder
+Future segmentation prediction
+local details
+rich details
+
+[title]Graph Convolutional Networks for 3D Object Detection on Radar Data
+radar data
+raw radar tensor data
+radar sensors
+diverse object orientations
++10%
+
+[title]Recurrent Memory Addressing for describing videos
+sequence
+v
+schema
+Key-Value Memory Networks
+key-value pairs
+
+[title]Exploiting the Complementarity of Audio and Visual Data in
+unimodal approaches
+multi-speaker tracking
+Multi-speaker tracking
+information
+multiple speakers
+
+[title]Are You Talking to Me? Reasoned Visual Dialog Generation
+high quality answers
+questions
+visual dialog
+the associated reasoning
+sarial Networks
+
+[title]Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation
+3D object detection
+image data
+image labels
+3D semantic
+segmentation
+the detection performance
+
+[title]Strategies For Resolving Camera Metamers Using 3+1 Channel
+similar colors
+metamerism
+a fourth spectral channel
+fourth
+a color channel
+
+[title]It takes two to tango: Cascading off-the-shelf face detectors
+face detector
+false positives
+excessive false positives
+true positives
+detectors
+
+[title]From Photography to Microbiology: Eigenbiome Models for Skin Appearance
+skin appearance
+computational skin texture
+microbiome clusters
+Computational appearance
+microscopic biology
+
+[title]Filtrated Spectral Algebraic Subspace Clustering ∗
+subspaces
+algebraic methods
+a subspace clustering afﬁnity
+noiseless data
+sparse and
+low rank subspace clustering methods
+
+[title]Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation
+multi-story buildings
+realistic 3D volumetric designs
+connectivity accuracy
+volumetric design generation
+Volumetric design
+
+[title]Layer-Wise Invertibility for Extreme Memory Cost Reduction of CNN Training
+minimal training memory
+GPU memory
+CNN training
+large memory
+CNN
+
+[title]SomethingFinder: Localizing undeﬁned regions using referring expressions
+only basic conceptual features
+basic visual attributes
+algorithms
+a target location
+a target region
+
+[title]A Survey on Rotation Optimization in Structure from Motion
+Motion applications
+outliers
+times
+novel ones
+robust rotation optimization
+
+[title]Self-Promoted Prototype Reﬁnement for Few-Shot Class-Incremental Learning
+prototypes
+few samples
+little supervision
+the new classes
+different
+classes
+
+[title]TeliNet: Classifying CT scan images for COVID-19 diagnosis
+COVID-19 patients
+patients
+CT
+CT-scan images
+TeliNet
+
+[title]Interaction via Bi-directional Graph of Semantic Region Affinity for
+
+[title]SrvfNet: A Generative Network for Unsupervised
+synthetic data
+alignment
+large collections
+SRVF
+resonance imaging
+
+[title]Deep Polarization Cues for Transparent Object Segmentation
+light polarization
+processing polarization
+light waves
+Transparent objects
+transparent objects
+
+[title]BossNAS: Exploring Hybrid CNN-transformers with Block-wisely
+diversified search spaces
+HyTra search space
+NAS methods
+hybrid architectures
+previous methods
+
+[title]Efﬁcient Module Based Single Image Super Resolution for Multiple Problems
+single image SR networks
+multiple SR problems
+SR
+trained networks
+Track
+
+[title]Puck localization and multi-task event recognition in broadcast hockey videos
+puck location
+Puck localization
+puck localization
+puck possession
+high puck velocity
+
+[title]Deep Gaussian Scale Mixture Prior for Spectral Compressive Imaging
+based methods
+existing GSM models
+satisﬁed results
+learned Gaussian Scale Mixture
+Extensive experimental results
+
+[title]FormResNet: Formatted Residual Learning for Image Restoration
+corrupted images
+images
+structured information
+deep neural networks
+Previous deep learning based methods
+
+[title]Model-based 3D Hand Reconstruction via Self-Supervised Learning
+3D annotations
+3D representations
+various hand conﬁgurations
+a self-
+supervised 3D hand reconstruction network
+ob-
+taining 3D annotations
+
+[title]Spatio-Temporal Graph for Video Captioning with Knowledge Distillation
+local object information
+global scene features
+visual scenes
+explicit visual grounding
+spurious correlations
+
+[title]See the E-Waste! Training Visual Intelligence to See Dense Circuit Boards for
+dense circuit board
+boundary detection
+dense circuit board
+robotic manipulation
+small components
+E-
+waste visual tasks research
+
+[title]Deep Spectral Clustering using Dual Autoencoder Network
+clustering
+inputs
+
+optimal clustering results
+conventional clustering meth-
+ods
+Experimental results
+
+[title]Generalizable Mixed-Precision Quantization via Attribution Rank Preservation
+reduced search cost
+challenging largescale datasets
+different data distribution
+attribution rank consistency
+datasets
+
+[title]Intrinsic Scene Properties from Hyperspectral Images and LiDAR
+unorganized LiDAR points
+sub-pixel reﬂectances
+hyperspectral images
+image quality
+intrinsic scene properties
+
+[title]DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset
+Neuromorphic vision sensors
+frame-
+real outdoor scenarios
+well known frame-
+based sensors
+cameras
+
+[title]Efﬁcient Deep Feature Learning and Extraction via StochasticNets
+conventional deep neural networks
+Deep neural networks
+deep neural networks
+deep convolutional StochasticNets
+faster feature learning
+
+[title]Spatio-Temporal Action Graph Networks
+object interactions
+future object appearance
+objects
+multi-object interactions
+important events
+
+[title]Scan-ﬂood Fill(SCAFF): an Efﬁcient Automatic Precise Region Filling Algorithm
+interior label color
+background color
+color
+ﬁlled masks
+precise masks
+
+[title]Generalized Zero-Shot Learning via Aligned Variational Autoencoders
+age features
+artiﬁcial feature generation
+cross-modal mapping
+space
+class embeddings
+
+[title]Hierarchical Proxy-based Loss for Deep Metric Learning
+similar subordinate classes
+strong hierarchical structure
+Proxy
+classes
+existing proxy-based losses
+
+[title]Deep Label Distribution Learning for Apparent Age Estimation
+apparent ages
+deep CNN models
+ages
+deep CNN
+different datasets
+
+[title]Evolving Search Space for Neural Architecture Search
+large search space regimes
+search space
+more performant candidates
+existing NAS methods
+existing methods
+
+[title]Weakly Supervised Contrastive Learning
+contrastive learning
+Unsupervised visual representation learning
+semi-supervised learning
+class collision problems
+the existing contrastive learning frameworks
+
+[title]Unraveling Human Perception of Facial Aging using Eye Gaze
+face age estimation
+different face parts
+age-separated face veriﬁcation tasks
+eye gaze
+participants
+
+[title]Salient Object Ranking with Position-Preserved Attention
+multiple objects
+video summary
+content-aware image cropping
+im-
+age labeling
+salient object
+detection
+
+[title]Multistage Fusion of Face Matchers
+additional matching algorithms
+decisions
+fusion functions
+Such fusion methods
+single neural network
+
+[title]Empirically Analyzing the Effect of Dataset Biases
+face pose
+unseen face poses
+other DCNN architectures
+face recognition tasks
+current DCNN architectures
+
+[title]Visual 3D Reconstruction and Dynamic Simulation of Fruit Trees for Robotic
+branches
+commercial tree fruit canopies
+hidden objects
+locations
+manual workers
+
+[title]LEGAN: Disentangled Manipulation of Directional Lighting and Facial
+higher quality face images
+face images
+facial expressions
+veriﬁcation tasks
+training data
+
+[title]Dual Bipartite Graph Learning:
+region
+Domain Adaptive Object Detection
+backgrounds
+different semantic categories
+feature adaptation
+
+[title]Lightweight Multi-person Total Motion Capture
+Multi-person total motion capture
+existing methods
+severe occluded occasions
+severe occlusions
+body
+
+[title]HiFT: Hierarchical Feature Transformer for Aerial Tracking
+aerial mobile platforms
+deep layers
+multi-level features
+multiple maps
+HiFT
+
+[title]Part-Pose Guided Amur Tiger Re-Identiﬁcation
+-
+CVWC2019
+ID task
+ID
+tiger
+
+[title]RECALL: Replay-based Continual Learning in Semantic Segmentation
+old classes
+new classes
+past steps
+previous training data
+data
+
+[title]Real-time Physics-based Removal of Shadows and Shading from Road Surfaces
+road markings
+road surfaces
+log RGB
+important information
+an illumination free representation
+
+[title]BossNAS: Exploring Hybrid CNN-transformers with Block-wisely
+diversified search spaces
+HyTra search space
+NAS methods
+hybrid architectures
+previous methods
+
+[title]Soccer: Who Has The Ball? Generating Visual Analytics and Player Statistics
+soccer players
+videos
+future elite level performers
+players
+visual analytics
+
+[title]Geometrically Principled Connections in Graph Neural Networks
+graph convolution
+Graph convolution operators
+radial basis functions
+graph neural networks
+graph classiﬁcation
+
+[title]Feature Importance-aware Transferable Adversarial Attacks
+defense models
+different models
+Existing transferable attacks
+adversarial examples
+intrinsic features
+
+[title]A Perceptual Prediction Framework for Self Supervised Event Segmentation
+weak supervision
+full supervision
+Temporal segmentation
+competitive segmentation results
+constituent events
+
+[title]Non-rigid Registration of 3D Ultrasound Images Using Model-based
+image sequences
+image size
+Non-rigid image registration
+non-rigid image registration
+image intensity
+
+[title]Spatially-Varying Outdoor Lighting Estimation from Intrinsics
+outdoor lighting
+warped image information
+local lighting ground truth
+global sky environment
+image
+[end]

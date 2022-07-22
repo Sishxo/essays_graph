@@ -1,7 +1,6 @@
 from snownlp import SnowNLP
-from textrank4zh import TextRank4Keyword, TextRank4Sentence
-import spacy
 import pytextrank
+import spacy
 import getAbstract
 import pathlib
 
@@ -27,7 +26,7 @@ def get_zh_keywords(text):
 def get_en_keywords_from_pdf(in_pdf_path, out_txt_path):
     getAbstract.parsePDF(in_pdf_path, out_txt_path)
     text = pathlib.Path(out_txt_path).read_text()
-    temp=get_en_keywords(text)
+    temp = get_en_keywords(text)
     return temp
 
 
@@ -40,23 +39,22 @@ if __name__ == "__main__":
             for phrase in temp[:5]:
                 f.write(phrase.text)
             f.write()'''
-    with open("abstract.txt","r",encoding='UTF-8') as f:
-        with open("keywords.txt","a",encoding="UTF-8") as f2:
-            abstract=""
-            line=f.readline()
+    with open("../data/txt/abstract_test.txt", "r", encoding='UTF-8') as f:
+        with open("../data/txt/keywords_test.txt", "a", encoding="UTF-8") as f2:
+            abstract = ""
+            line = f.readline()
             while line:
                 if line == "\n":
-                    keywords=get_en_keywords(abstract)
-                    abstract=""
+                    keywords = get_en_keywords(abstract)
+                    abstract = ""
                     for phrase in keywords[:5]:
-                        f2.write(phrase.text+"\n")
-                        print(phrase.text)
+                        f2.write(phrase.text + "\n")
+                        # print(phrase.text)
                     f2.write("\n")
-                    line=f.readline()
+                    line = f.readline()
                     f2.write("[title]")
-                    print("[title]")
+                    print("[title]",line)
                     f2.write(line)
-                    print(line)
-                line=f.readline()
-                abstract = abstract+line
-
+                line = f.readline()
+                abstract = abstract + line
+            f2.write("[end]")
