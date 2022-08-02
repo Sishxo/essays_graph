@@ -1712,7 +1712,7 @@ getnodesJson([
     "count": 1
   },
   {
-    "name": "recognition datasets",
+    "name": "datasets",
     "count": 26
   },
   {
